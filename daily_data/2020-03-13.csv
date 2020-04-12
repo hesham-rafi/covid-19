@@ -1,0 +1,119 @@
+﻿LastUpdate,CountryCode,Country,Confirmed,Deaths,Recovered,NewConfirmed,NewDeaths,NewRecovered
+2020-03-13,CN,China,80981,3173,0,26,11,0
+2020-03-13,KR,Republic of Korea,7869,66,0,114,6,0
+2020-03-13,JP,Japan,620,15,0,52,3,0
+2020-03-13,SG,Singapore,178,0,0,12,0,0
+2020-03-13,MY,Malaysia,129,0,0,0,0,0
+2020-03-13,AU,Australia,122,3,0,10,0,0
+2020-03-13,PH,Philippines,52,2,0,3,1,0
+2020-03-13,VN,VietNam,39,0,0,4,0,0
+2020-03-13,BN,Brunei Darussalam,12,0,0,11,0,0
+2020-03-13,NZ,New Zealand,5,0,0,0,0,0
+2020-03-13,KH,Cambodia,3,0,0,0,0,0
+2020-03-13,MN,Mongolia,1,0,0,0,0,0
+2020-03-13,PF,French Polynesia,1,0,0,1,0,0
+2020-03-13,IT,Italy,12462,827,0,2313,196,0
+2020-03-13,FR,France,2269,48,0,495,15,0
+2020-03-13,ES,Spain,2140,48,0,501,12,0
+2020-03-13,DE,Germany,1567,3,0,271,1,0
+2020-03-13,CH,Switzerland,645,4,0,154,1,0
+2020-03-13,DK,Denmark,615,0,0,353,0,0
+2020-03-13,NL,Netherlands,503,5,0,121,1,0
+2020-03-13,SE,Sweden,461,0,0,135,0,0
+2020-03-13,GB,United Kingdom,460,6,0,87,0,0
+2020-03-13,BE,Belgium,314,0,0,47,0,0
+2020-03-13,AT,Austria,302,0,0,120,0,0
+2020-03-13,NO,Norway,277,0,0,0,0,0
+2020-03-13,GR,Greece,98,1,0,9,1,0
+2020-03-13,CZ,Czechia,94,0,0,33,0,0
+2020-03-13,IL,Israel,75,0,0,0,0,0
+2020-03-13,SM,San Marino,63,2,0,0,0,0
+2020-03-13,IS,Iceland,61,0,0,0,0,0
+2020-03-13,SI,Slovenia,57,0,0,26,0,0
+2020-03-13,RO,Romania,48,0,0,23,0,0
+2020-03-13,PL,Poland,44,0,0,22,0,0
+2020-03-13,IE,Ireland,43,1,0,9,1,0
+2020-03-13,PT,Portugal,41,0,0,0,0,0
+2020-03-13,FI,Finland,40,0,0,0,0,0
+2020-03-13,GE,Georgia,23,0,0,0,0,0
+2020-03-13,RU,Russian Federation,20,0,0,13,0,0
+2020-03-13,RS,Serbia,19,0,0,7,0,0
+2020-03-13,LU,Luxembourg,17,0,0,12,0,0
+2020-03-13,HR,Croatia,16,0,0,0,0,0
+2020-03-13,LV,Latvia,16,0,0,8,0,0
+2020-03-13,EE,Estonia,13,0,0,0,0,0
+2020-03-13,HU,Hungary,13,0,0,0,0,0
+2020-03-13,BY,Belarus,12,0,0,3,0,0
+2020-03-13,AL,Albania,10,0,0,0,0,0
+2020-03-13,SK,Slovakia,10,0,0,3,0,0
+2020-03-13,AZ,Azerbaijan,9,0,0,0,0,0
+2020-03-13,BG,Bulgaria,7,1,0,1,1,0
+2020-03-13,MK,North Macedonia,7,0,0,0,0,0
+2020-03-13,CY,Cyprus,6,0,0,4,0,0
+2020-03-13,MT,Malta,6,0,0,2,0,0
+2020-03-13,BA,Bosnia and Herzegovina,4,0,0,0,0,0
+2020-03-13,MD,Republic of Moldova,4,0,0,1,0,0
+2020-03-13,LT,Lithuania,3,0,0,2,0,0
+2020-03-13,AD,Andorra,1,0,0,0,0,0
+2020-03-13,AM,Armenia,1,0,0,0,0,0
+2020-03-13,VA,Holy see,1,0,0,0,0,0
+2020-03-13,LI,Liechtenstein,1,0,0,0,0,0
+2020-03-13,MC,Monaco,1,0,0,0,0,0
+2020-03-13,TR,Turkey,1,0,0,1,0,0
+2020-03-13,UA,Ukraine,1,0,0,0,0,0
+2020-03-13,FO,Faroe Islands,2,0,0,0,0,0
+2020-03-13,GI,Gibraltar,1,0,0,0,0,0
+2020-03-13,GG,Guernsey,1,0,0,0,0,0
+2020-03-13,IN,India,73,0,0,13,0,0
+2020-03-13,TH,Thailand,70,1,0,11,0,0
+2020-03-13,ID,Indonesia,34,1,0,7,0,0
+2020-03-13,MV,Maldives,8,0,0,0,0,0
+2020-03-13,BD,Bangladesh,3,0,0,0,0,0
+2020-03-13,LK,Sri Lanka,2,0,0,1,0,0
+2020-03-13,BT,Bhutan,1,0,0,0,0,0
+2020-03-13,NP,Nepal,1,0,0,0,0,0
+2020-03-13,IR,Iran,9000,354,0,958,63,0
+2020-03-13,QA,Qatar,262,0,0,238,0,0
+2020-03-13,BH,Bahrain,189,0,0,79,0,0
+2020-03-13,KW,Kuwait,80,0,0,11,0,0
+2020-03-13,AE,United Arab Emirates,74,0,0,0,0,0
+2020-03-13,IQ,Iraq,70,7,0,9,1,0
+2020-03-13,EG,Egypt,67,1,0,8,0,0
+2020-03-13,LB,Lebanon,66,3,0,25,2,0
+2020-03-13,SA,Saudi Arabia,21,0,0,1,0,0
+2020-03-13,PK,Pakistan,19,0,0,3,0,0
+2020-03-13,OM,Oman,18,0,0,0,0,0
+2020-03-13,AF,Afghanistan,7,0,0,3,0,0
+2020-03-13,TN,Tunisia,6,0,0,0,0,0
+2020-03-13,MA,Morocco,5,1,0,2,0,0
+2020-03-13,JO,Jordan,1,0,0,0,0,0
+2020-03-13,PS,occupied Palestinian territory,30,0,0,0,0,0
+2020-03-13,US,United States of America,987,29,0,291,4,0
+2020-03-13,CA,Canada,93,1,0,0,0,0
+2020-03-13,BR,Brazil,52,0,0,18,0,0
+2020-03-13,CL,Chile,23,0,0,6,0,0
+2020-03-13,AR,Argentina,19,1,0,2,0,0
+2020-03-13,EC,Ecuador,17,0,0,2,0,0
+2020-03-13,PE,Peru,17,0,0,6,0,0
+2020-03-13,CR,Costa Rica,13,0,0,0,0,0
+2020-03-13,MX,Mexico,11,0,0,4,0,0
+2020-03-13,PA,Panama,10,1,0,2,0,0
+2020-03-13,CO,Colombia,9,0,0,6,0,0
+2020-03-13,DO,Dominican Republic,5,0,0,0,0,0
+2020-03-13,PY,Paraguay,5,0,0,0,0,0
+2020-03-13,BO,Bolivia,2,0,0,0,0,0
+2020-03-13,HN,Honduras,2,0,0,2,0,0
+2020-03-13,JM,Jamaica,1,0,0,0,0,0
+2020-03-13,GF,French Guiana,5,0,0,0,0,0
+2020-03-13,MQ,Martinique,3,0,0,0,0,0
+2020-03-13,STM,Saint Martin,2,0,0,0,0,0
+2020-03-13,BL,Saint Barthelemy,1,0,0,0,0,0
+2020-03-13,DZ,Algeria,25,1,0,5,1,0
+2020-03-13,ZA,South Africa,13,0,0,6,0,0
+2020-03-13,SN,Senegal,4,0,0,0,0,0
+2020-03-13,BF,Burkina Faso,2,0,0,0,0,0
+2020-03-13,CM,Cameroon,2,0,0,0,0,0
+2020-03-13,NG,Nigeria,2,0,0,0,0,0
+2020-03-13,CI,Côte d’Ivoire,1,0,0,1,0,0
+2020-03-13,CD,Democratic Republic of the Congo,1,0,0,0,0,0
+2020-03-13,TG,Togo,1,0,0,0,0,0

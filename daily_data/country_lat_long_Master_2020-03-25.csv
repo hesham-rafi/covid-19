@@ -1,0 +1,188 @@
+CountryCode,Country,Latitude,Longitude
+AD,Andorra,42.55833,1.55528
+AE,United Arab Emirates,23.78333,54
+AF,Afghanistan,34,66
+AG,Antigua and Barbuda,17.11667,-61.85
+AL,Albania,41,20
+AM,Armenia,40.38333,44.95
+AR,Argentina,-34,-64
+AT,Austria,48,14
+AU,Australia,-25,135
+AW,Aruba,12.5,-69.96667
+AZ,Azerbaijan,40.3,47.7
+BA,Bosnia,44,18
+BA,Bosnia and Herzegovina,44,18
+BB,Barbados,13.16667,-59.55
+BD,Bangladesh,24.01667,89.86667
+BE,Belgium,51,5
+BF,Burkina Faso,12.26667,-2.06667
+BG,Bulgaria,42.75,25.5
+BH,Bahrain,26.0675,50.55111
+BJ,Benin,8.83333,2.18333
+BL,Saint Barthlemy,17.91667,-62.83333
+BN,Brunei,4.4,114.56667
+BO,Bolivia,-17.05687,-64.99123
+BR,Brazil,-11,-53
+BS,Bahamas,25.032412,-77.39811
+BT,Bhutan,27.45,90.5
+BY,Belarus,53.52833,28.04667
+CA,Canada,56,-109
+CD,DR Congo,40.636305,-4.008195
+CF,Central African Republic,6.96667,20.61667
+CG,Congo Republic,-0.228021,15.827659
+CH,Switzerland,46.79856,8.23197
+CI,Ivory Coast,8,-6
+CL,Chile,-31,-71
+CM,Cameroon,5.11667,11.91667
+CN,China,35,103
+CO,Colombia,3.81667,-73.91667
+CR,Costa Rica,10,-84
+CU,Cuba,22,-79.5
+CW,Curacao,12.18333,-69
+CY,Cyprus,35,33
+CZ,Czech Republic,50,16
+DE,Germany,51,10
+DJ,Djibouti,11.8,42.43333
+DK,Denmark,56,10
+DO,Dominican Republic,19,-70.66667
+DZ,Algeria,28,2
+EC,Ecuador,-1.46667,-78.81667
+EE,Estonia,59,26
+EG,Egypt,26,29
+ES,Spain,40,-3
+ET,Ethiopia,8,39
+FI,Finland,64,26
+FJ,Fiji,-18,178
+FO,Faeroe Islands,61.96994,-6.84448
+FR,France,47,2
+FR,French Republic,55.818795,49.139517
+GA,Gabon,-0.68333,11.5
+GB,United Kingdom,54,-2
+GE,Georgia,33,-83.5
+GF,French Guiana,4,-53
+GG,Guernsey,49.45364,-2.576236
+GH,Ghana,8,-1
+GI,Gibraltar,36.13871,-5.34742
+GL,Greenland,72,-40
+GM,Gambia,13.5,-15.5
+GN,Guinea,10.96667,-10.76667
+GP,Guadeloupe,16.177191,-61.44245
+GQ,Equatorial Guinea,1.5,10
+GR,Greece,39,22
+GT,Guatemala,15.5,-90.25
+GY,Guyana,5.73333,-59.31667
+HK,Hong Kong,22.27833,114.15861
+HN,Honduras,14.63333,-86.81667
+HR,Croatia,45.25,15.46667
+HT,Haiti,19.1,-72.33
+HU,Hungary,47,19
+ID,Indonesia,-0.050812,113.347842
+IE,Ireland,53,-8
+IL,Israel,31.75,35
+IM,Isle of Man,54.25,-4.5
+IN,India,21,77
+IQ,Iraq,33,43
+IR,Iran,32,53
+IS,Iceland,64.83056,-17.98667
+IT,Italy,43,12
+JE,Jersey,49.19,-2.11
+JM,Jamaica,18.18239,-77.32178
+JO,Jordan,31.01667,36.61667
+JP,Japan,35,136
+KE,Kenya,0.4,37.85
+KG,Kyrgyzstan,41.26667,74.98333
+KH,Cambodia,12.73333,105.66667
+KR,South Korea,36.536236,128.168944
+KW,Kuwait,29.16667,47.6
+KY,Cayman Islands,19.706851,-79.916631
+KZ,Kazakhstan,48,68
+LB,Lebanon,33.83333,35.76667
+LC,Saint Lucia,13.88333,-61
+LI,Liechtenstein,47.145,9.55389
+LK,Sri Lanka,7,81
+LR,Liberia,6.53333,-9.75
+LT,Lithuania,55.5,24
+LU,Luxembourg,49.77,6.13
+LV,Latvia,57,25
+MA,Morocco,32,-6
+MC,Monaco,43.73125,7.41974
+MD,Moldova,47.25,28.51667
+ME,Montenegro,42.76667,19.21667
+MK,North Macedonia,41.65,21.71667
+MN,Mongolia,47,104
+MO,Macau,22.19816,113.54348
+MQ,Martinique,14.66667,-61
+MR,Mauritania,19.56667,-10.65
+MS,Montserrat,16.75,-62.2
+MT,Malta,35.88333,14.5
+MU,Mauritius,-20.2,57.5
+MV,Maldives,0.549767,73.21496
+MX,Mexico,23.31667,-102.36667
+MY,Malaysia,2.31667,111.55
+NA,Namibia,-23,17
+NC,New Caledonia,-21.25,165.3
+NE,Niger,9,8
+NG,Nigeria,9,8
+NI,Nicaragua,13.09138,-86.00099
+NL,Netherlands,52.31667,5.55
+NO,Norway,61,8
+NP,Nepal,26.53333,86.73333
+NZ,New Zealand,-42,174
+OM,Oman,20.23333,55.96667
+PA,Panama,8.61667,-80.36667
+PE,Peru,-8,-78
+PF,French Polynesia,-17.53333,-149.56667
+PH,Philippines,11.33333,123.01667
+PK,Pakistan,29,69
+PL,Poland,52,19
+PR,Puerto Rico,18.25,-66.5
+PS,Palestine,31.88333,35.2
+PT,Portugal,38.7,-9.18333
+PY,Paraguay,-23.26667,-58.08333
+QA,Qatar,25.26954,51.21277
+RE,Reunion,-21.11444,55.5325
+RO,Romania,46,25
+RS,Serbia,43.95,20.93333
+RU,Russia,55.75,37.61667
+RW,Rwanda,-1.94028,29.87389
+SA,Saudi Arabia,23.71667,44.11667
+SC,Seychelles,-7.1,52.76667
+SD,Sudan,15,32
+SE,Sweden,61,15
+SG,Singapore,1.3,103.8
+SHIP,Diamond Princess,35.4498,139.6649
+SI,Slovenia,46,15
+SK,Slovakia,49,20
+SM,San Marino,43.93333,12.46667
+SN,Senegal,14.36667,-14.28333
+SO,Somalia,5.173975,46.873919
+SR,Suriname,4,-56
+SV,El Salvador,13.66889,-88.86611
+SX,Saint Martin,18.06667,-63.05
+SX,Sint Maarten,18.03194,-63.06778
+SZ,Eswatini,-26.48333,31.43333
+SZ,Swaziland,-26.48333,31.43333
+TD,Chad,15.46667,19.4
+TG,Togo,8.25,1.18333
+TH,Thailand,15,101
+TN,Tunisia,34,9
+TR,Turkey,39,36
+TRY,Northern Cyprus,35.18097,33.36347
+TT,Trinidad and Tobago,10.468643,-61.253176
+TT,Trinidad and Tobago,10.468643,-61.253176
+TW,Taiwan,24,121
+TZ,Tanzania,-6.307,34.854
+UA,Ukraine,49,32
+US,United States,40,-100
+UY,Uruguay,-32.73333,-56.65
+UZ,Uzbekistan,41.66667,64.06667
+VA,Vatican City,41.903878,12.452818
+VC,Saint Vincent and the Grenadines,13.16667,-61.23333
+VC,Saint Vincent and the Grenadines,13.16667,-61.23333
+VE,Venezuela,8,-65
+VN,Vietnam,14.01667,107.9
+XK,Kosovo,42.55,20.83333
+YT,Mayotte,-12.84306,45.13833
+ZA,South Africa,-29,24
+ZM,Zambia,-14.11667,27.63333
+SY,Syria,34.8021,38.9968

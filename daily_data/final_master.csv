@@ -1,0 +1,505 @@
+LastUpdate,CountryCode,Country,Confirmed,Deaths,Recovered,NewConfirmed,NewDeaths,NewRecovered
+1/21/2020,CN,China,278,0,0,0,0,0
+1/21/2020,JP,Japan,1,0,0,0,0,0
+1/21/2020,KR,Republic of Korea,1,0,0,0,0,0
+1/21/2020,TH,Thailand,2,0,0,0,0,0
+1/22/2020,CN,China,309,0,0,31,0,0
+1/22/2020,JP,Japan,1,0,0,0,0,0
+1/22/2020,KR,Republic of Korea,1,0,0,0,0,0
+1/22/2020,TH,Thailand,2,0,0,0,0,0
+1/23/2020,CN,China,571,0,0,262,0,0
+1/23/2020,JP,Japan,1,0,0,0,0,0
+1/23/2020,KR,Republic of Korea,1,0,0,0,0,0
+1/23/2020,TH,Thailand,4,0,0,2,0,0
+1/23/2020,US,United States of America,1,0,0,0,0,0
+1/24/2020,CN,China,830,0,0,259,0,0
+1/24/2020,JP,Japan,1,0,0,0,0,0
+1/24/2020,KR,Republic of Korea,2,0,0,1,0,0
+1/24/2020,SG,Singapore,1,0,0,0,0,0
+1/24/2020,TH,Thailand,4,0,0,0,0,0
+1/24/2020,US,United States of America,1,0,0,0,0,0
+1/24/2020,VN,Viet0m,2,0,0,0,0,0
+1/25/2020,AU,Australia,3,0,0,0,0,0
+1/25/2020,CN,China,1297,0,0,467,0,0
+1/25/2020,FR,French Republic,3,0,0,0,0,0
+1/25/2020,JP,Japan,3,0,0,2,0,0
+1/25/2020,NP,Nepal,1,0,0,0,0,0
+1/25/2020,KR,Republic of Korea,2,0,0,0,0,0
+1/25/2020,SG,Singapore,3,0,0,2,0,0
+1/25/2020,TH,Thailand,4,0,0,0,0,0
+1/25/2020,US,United States of America,2,0,0,1,0,0
+1/25/2020,VN,Viet0m,2,0,0,0,0,0
+1/26/2020,AU,Australia,4,0,0,1,0,0
+1/26/2020,CN,China,1985,0,0,688,0,0
+1/26/2020,FR,France,3,0,0,0,0,0
+1/26/2020,JP,Japan,3,0,0,0,0,0
+1/26/2020,MY,Malaysia,3,0,0,0,0,0
+1/26/2020,NP,Nepal,1,0,0,0,0,0
+1/26/2020,KR,Republic of Korea,2,0,0,0,0,0
+1/26/2020,SG,Singapore,4,0,0,1,0,0
+1/26/2020,TH,Thailand,5,0,0,1,0,0
+1/26/2020,US,United States of America,2,0,0,0,0,0
+1/26/2020,VN,Viet0m,2,0,0,0,0,0
+1/27/2020,AU,Australia,4,0,0,0,0,0
+1/27/2020,CA,Ca0da,1,0,0,0,0,0
+1/27/2020,CN,China,2761,0,0,776,0,0
+1/27/2020,FR,France,3,0,0,0,0,0
+1/27/2020,JP,Japan,4,0,0,1,0,0
+1/27/2020,MY,Malaysia,4,0,0,1,0,0
+1/27/2020,NP,Nepal,1,0,0,0,0,0
+1/27/2020,KR,Republic of Korea,4,0,0,2,0,0
+1/27/2020,SG,Singapore,4,0,0,0,0,0
+1/27/2020,TH,Thailand,5,0,0,0,0,0
+1/27/2020,US,United States of America,5,0,0,3,0,0
+1/27/2020,VN,Viet0m,2,0,0,0,0,0
+1/28/2020,AU,Australia,5,0,0,1,0,0
+1/28/2020,KH,Cambodia,1,0,0,0,0,0
+1/28/2020,CA,Ca0da,2,0,0,1,0,0
+1/28/2020,CN,China,4537,0,0,1776,0,0
+1/28/2020,FR,France,3,0,0,0,0,0
+1/28/2020,DE,Germany,1,0,0,0,0,0
+1/28/2020,JP,Japan,6,0,0,2,0,0
+1/28/2020,MY,Malaysia,4,0,0,0,0,0
+1/28/2020,NP,Nepal,1,0,0,0,0,0
+1/28/2020,KR,Republic of Korea,4,0,0,0,0,0
+1/28/2020,SG,Singapore,7,0,0,3,0,0
+1/28/2020,LK,Sri Lanka,1,0,0,0,0,0
+1/28/2020,TH,Thailand,14,0,0,9,0,0
+1/28/2020,US,United States of America,5,0,0,0,0,0
+1/28/2020,VN,Viet0m,2,0,0,0,0,0
+1/29/2020,AU,Australia,7,0,0,2,0,0
+1/29/2020,KH,Cambodia,1,0,0,0,0,0
+1/29/2020,CA,Ca0da,3,0,0,1,0,0
+1/29/2020,CN,China,5997,0,0,1460,0,0
+1/29/2020,FR,France,4,0,0,1,0,0
+1/29/2020,DE,Germany,4,0,0,3,0,0
+1/29/2020,JP,Japan,7,0,0,1,0,0
+1/29/2020,MY,Malaysia,4,0,0,0,0,0
+1/29/2020,NP,Nepal,1,0,0,0,0,0
+1/29/2020,KR,Republic of Korea,4,0,0,0,0,0
+1/29/2020,SG,Singapore,7,0,0,0,0,0
+1/29/2020,LK,Sri Lanka,1,0,0,0,0,0
+1/29/2020,TH,Thailand,14,0,0,0,0,0
+1/29/2020,AE,United Arab Emirates,4,0,0,0,0,0
+1/29/2020,US,United States of America,5,0,0,0,0,0
+1/29/2020,VN,Viet0m,2,0,0,0,0,0
+1/30/2020,AU,Australia,7,0,0,0,0,0
+1/30/2020,KH,Cambodia,1,0,0,0,0,0
+1/30/2020,CA,Ca0da,3,0,0,0,0,0
+1/30/2020,CN,China,7736,0,0,1739,0,0
+1/30/2020,FI,Finland,1,0,0,0,0,0
+1/30/2020,FR,France,5,0,0,1,0,0
+1/30/2020,DE,Germany,4,0,0,0,0,0
+1/30/2020,IN,India,1,0,0,0,0,0
+1/30/2020,JP,Japan,11,0,0,4,0,0
+1/30/2020,MY,Malaysia,7,0,0,3,0,0
+1/30/2020,NP,Nepal,1,0,0,0,0,0
+1/30/2020,PH,Philippines,1,0,0,0,0,0
+1/30/2020,KR,Republic of Korea,4,0,0,0,0,0
+1/30/2020,SG,Singapore,10,0,0,3,0,0
+1/30/2020,LK,Sri Lanka,1,0,0,0,0,0
+1/30/2020,TH,Thailand,14,0,0,0,0,0
+1/30/2020,AE,United Arab Emirates,4,0,0,0,0,0
+1/30/2020,US,United States of America,5,0,0,0,0,0
+1/30/2020,VN,Viet0m,2,0,0,0,0,0
+1/31/2020,AU,Australia,9,0,0,2,0,0
+1/31/2020,KH,Cambodia,1,0,0,0,0,0
+1/31/2020,CA,Ca0da,3,0,0,0,0,0
+1/31/2020,CN,China,9720,0,0,1984,0,0
+1/31/2020,FI,Finland,1,0,0,0,0,0
+1/31/2020,FR,France,6,0,0,1,0,0
+1/31/2020,DE,Germany,5,0,0,1,0,0
+1/31/2020,IN,India,1,0,0,0,0,0
+1/31/2020,IT,Italy,2,0,0,0,0,0
+1/31/2020,JP,Japan,14,0,0,3,0,0
+1/31/2020,MY,Malaysia,8,0,0,1,0,0
+1/31/2020,NP,Nepal,1,0,0,0,0,0
+1/31/2020,PH,Philippines,1,0,0,0,0,0
+1/31/2020,KR,Republic of Korea,11,0,0,7,0,0
+1/31/2020,SG,Singapore,13,0,0,3,0,0
+1/31/2020,LK,Sri Lanka,1,0,0,0,0,0
+1/31/2020,TH,Thailand,14,0,0,0,0,0
+1/31/2020,AE,United Arab Emirates,4,0,0,0,0,0
+1/31/2020,US,United States of America,6,0,0,1,0,0
+1/31/2020,VN,Viet0m,5,0,0,3,0,0
+02/01/2020,AU,Australia,12,0,0,3,0,0
+02/01/2020,KH,Cambodia,1,0,0,0,0,0
+02/01/2020,CA,Ca0da,4,0,0,1,0,0
+02/01/2020,CN,China,11821,0,0,2101,0,0
+02/01/2020,FI,Finland,1,0,0,0,0,0
+02/01/2020,FR,France,6,0,0,0,0,0
+02/01/2020,DE,Germany,7,0,0,2,0,0
+02/01/2020,IN,India,1,0,0,0,0,0
+02/01/2020,IT,Italy,2,0,0,0,0,0
+02/01/2020,JP,Japan,17,0,0,3,0,0
+02/01/2020,MY,Malaysia,8,0,0,0,0,0
+02/01/2020,NP,Nepal,1,0,0,0,0,0
+02/01/2020,PH,Philippines,1,0,0,0,0,0
+02/01/2020,KR,Republic of Korea,12,0,0,1,0,0
+02/01/2020,RU,Russian Federation,2,0,0,0,0,0
+02/01/2020,SG,Singapore,16,0,0,3,0,0
+02/01/2020,ES,Spain,1,0,0,0,0,0
+02/01/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/01/2020,SE,Sweden,1,0,0,0,0,0
+02/01/2020,TH,Thailand,19,0,0,5,0,0
+02/01/2020,AE,United Arab Emirates,4,0,0,0,0,0
+02/01/2020,GB,United Kingdom,2,0,0,0,0,0
+02/01/2020,US,United States of America,7,0,0,1,0,0
+02/01/2020,VN,Viet0m,6,0,0,1,0,0
+02/02/2020,AU,Australia,12,0,0,0,0,0
+02/02/2020,KH,Cambodia,1,0,0,0,0,0
+02/02/2020,CA,Ca0da,4,0,0,0,0,0
+02/02/2020,CN,China,14411,0,0,2590,0,0
+02/02/2020,FI,Finland,1,0,0,0,0,0
+02/02/2020,FR,France,6,0,0,0,0,0
+02/02/2020,DE,Germany,8,0,0,1,0,0
+02/02/2020,IN,India,2,0,0,1,0,0
+02/02/2020,IT,Italy,2,0,0,0,0,0
+02/02/2020,JP,Japan,20,0,0,3,0,0
+02/02/2020,MY,Malaysia,8,0,0,0,0,0
+02/02/2020,NP,Nepal,1,0,0,0,0,0
+02/02/2020,PH,Philippines,2,0,0,1,0,0
+02/02/2020,KR,Republic of Korea,15,0,0,3,0,0
+02/02/2020,RU,Russian Federation,2,0,0,0,0,0
+02/02/2020,SG,Singapore,18,0,0,2,0,0
+02/02/2020,ES,Spain,1,0,0,0,0,0
+02/02/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/02/2020,SE,Sweden,1,0,0,0,0,0
+02/02/2020,TH,Thailand,19,0,0,0,0,0
+02/02/2020,AE,United Arab Emirates,5,0,0,1,0,0
+02/02/2020,GB,United Kingdom,2,0,0,0,0,0
+02/02/2020,US,United States of America,8,0,0,1,0,0
+02/02/2020,VN,Viet0m,7,0,0,1,0,0
+02/03/2020,AU,Australia,12,0,0,0,0,0
+02/03/2020,KH,Cambodia,1,0,0,0,0,0
+02/03/2020,CA,Ca0da,4,0,0,0,0,0
+02/03/2020,CN,China,17238,361,0,2827,57,0
+02/03/2020,FI,Finland,1,0,0,0,0,0
+02/03/2020,FR,France,6,0,0,0,0,0
+02/03/2020,DE,Germany,10,0,0,2,0,0
+02/03/2020,IN,India,3,0,0,1,0,0
+02/03/2020,IT,Italy,2,0,0,0,0,0
+02/03/2020,JP,Japan,20,0,0,0,0,0
+02/03/2020,MY,Malaysia,8,0,0,0,0,0
+02/03/2020,NP,Nepal,1,0,0,0,0,0
+02/03/2020,PH,Philippines,2,1,0,0,0,0
+02/03/2020,KR,Republic of Korea,15,0,0,0,0,0
+02/03/2020,RU,Russian Federation,2,0,0,0,0,0
+02/03/2020,SG,Singapore,18,0,0,0,0,0
+02/03/2020,ES,Spain,1,0,0,0,0,0
+02/03/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/03/2020,SE,Sweden,1,0,0,0,0,0
+02/03/2020,TH,Thailand,19,0,0,0,0,0
+02/03/2020,AE,United Arab Emirates,5,0,0,0,0,0
+02/03/2020,GB,United Kingdom,2,0,0,0,0,0
+02/03/2020,US,United States of America,11,0,0,3,0,0
+02/03/2020,VN,Viet0m,8,0,0,1,0,0
+02/04/2020,AU,Australia,12,0,0,0,0,0
+02/04/2020,KH,Cambodia,1,0,0,0,0,0
+02/04/2020,CA,Ca0da,4,0,0,0,0,0
+02/04/2020,CN,China,20471,425,0,3233,64,0
+02/04/2020,FI,Finland,1,0,0,0,0,0
+02/04/2020,FR,France,6,0,0,0,0,0
+02/04/2020,DE,Germany,12,0,0,2,0,0
+02/04/2020,IN,India,3,0,0,0,0,0
+02/04/2020,IT,Italy,2,0,0,0,0,0
+02/04/2020,JP,Japan,20,0,0,0,0,0
+02/04/2020,MY,Malaysia,10,0,0,2,0,0
+02/04/2020,NP,Nepal,1,0,0,0,0,0
+02/04/2020,PH,Philippines,2,1,0,0,0,0
+02/04/2020,KR,Republic of Korea,16,0,0,1,0,0
+02/04/2020,RU,Russian Federation,2,0,0,0,0,0
+02/04/2020,SG,Singapore,18,0,0,0,0,0
+02/04/2020,ES,Spain,1,0,0,0,0,0
+02/04/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/04/2020,SE,Sweden,1,0,0,0,0,0
+02/04/2020,TH,Thailand,19,0,0,0,0,0
+02/04/2020,AE,United Arab Emirates,5,0,0,0,0,0
+02/04/2020,GB,United Kingdom,2,0,0,0,0,0
+02/04/2020,US,United States of America,11,0,0,0,0,0
+02/04/2020,VN,Viet0m,9,0,0,1,0,0
+02/05/2020,AU,Australia,13,0,0,1,0,0
+02/05/2020,BE,Belgium,1,0,0,0,0,0
+02/05/2020,KH,Cambodia,1,0,0,0,0,0
+02/05/2020,CA,Ca0da,5,0,0,1,0,0
+02/05/2020,CN,China,24363,491,0,3892,66,0
+02/05/2020,FI,Finland,1,0,0,0,0,0
+02/05/2020,FR,France,6,0,0,0,0,0
+02/05/2020,DE,Germany,12,0,0,0,0,0
+02/05/2020,IN,India,3,0,0,0,0,0
+02/05/2020,IT,Italy,2,0,0,0,0,0
+02/05/2020,JP,Japan,33,0,0,13,0,0
+02/05/2020,MY,Malaysia,10,0,0,0,0,0
+02/05/2020,NP,Nepal,1,0,0,0,0,0
+02/05/2020,PH,Philippines,3,1,0,1,0,0
+02/05/2020,KR,Republic of Korea,18,0,0,2,0,0
+02/05/2020,RU,Russian Federation,2,0,0,0,0,0
+02/05/2020,SG,Singapore,24,0,0,6,0,0
+02/05/2020,ES,Spain,1,0,0,0,0,0
+02/05/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/05/2020,SE,Sweden,1,0,0,0,0,0
+02/05/2020,TH,Thailand,25,0,0,6,0,0
+02/05/2020,AE,United Arab Emirates,5,0,0,0,0,0
+02/05/2020,GB,United Kingdom,2,0,0,0,0,0
+02/05/2020,US,United States of America,11,0,0,0,0,0
+02/05/2020,VN,Viet0m,10,0,0,1,0,0
+02/06/2020,AU,Australia,14,0,0,1,0,0
+02/06/2020,BE,Belgium,1,0,0,0,0,0
+02/06/2020,KH,Cambodia,1,0,0,0,0,0
+02/06/2020,CA,Ca0da,5,0,0,0,0,0
+02/06/2020,CN,China,28060,564,0,3697,73,0
+02/06/2020,FI,Finland,1,0,0,0,0,0
+02/06/2020,FR,France,6,0,0,0,0,0
+02/06/2020,DE,Germany,12,0,0,0,0,0
+02/06/2020,IN,India,3,0,0,0,0,0
+02/06/2020,IT,Italy,2,0,0,0,0,0
+02/06/2020,JP,Japan,25,0,0,-8,0,0
+02/06/2020,MY,Malaysia,12,0,0,2,0,0
+02/06/2020,NP,Nepal,1,0,0,0,0,0
+02/06/2020,PH,Philippines,3,0,0,0,0,0
+02/06/2020,KR,Republic of Korea,23,0,0,5,0,0
+02/06/2020,RU,Russian Federation,2,0,0,0,0,0
+02/06/2020,SG,Singapore,28,0,0,4,0,0
+02/06/2020,ES,Spain,1,0,0,0,0,0
+02/06/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/06/2020,SE,Sweden,1,0,0,0,0,0
+02/06/2020,TH,Thailand,25,0,0,0,0,0
+02/06/2020,GB,The United Kingdom,2,0,0,0,0,0
+02/06/2020,AE,United Arab Emirates,5,0,0,0,0,0
+02/06/2020,US,United States of America,12,0,0,1,0,0
+02/06/2020,VN,Viet0m,10,0,0,0,0,0
+02/07/2020,AU,Australia,15,0,0,1,0,0
+02/07/2020,BE,Belgium,1,0,0,0,0,0
+02/07/2020,KH,Cambodia,1,0,0,0,0,0
+02/07/2020,CA,Ca0da,7,0,0,2,0,0
+02/07/2020,CN,China,31211,637,0,3151,73,0
+02/07/2020,FI,Finland,1,0,0,0,0,0
+02/07/2020,FR,France,6,0,0,0,0,0
+02/07/2020,DE,Germany,13,0,0,1,0,0
+02/07/2020,IN,India,3,0,0,0,0,0
+02/07/2020,Ship,Inter0tio0l conveyance (Japan),61,0,0,0,0,0
+02/07/2020,IT,Italy,3,0,0,1,0,0
+02/07/2020,JP,Japan,25,0,0,0,0,0
+02/07/2020,MY,Malaysia,14,0,0,2,0,0
+02/07/2020,NP,Nepal,1,0,0,0,0,0
+02/07/2020,PH,Philippines,3,1,0,0,0,0
+02/07/2020,KR,Republic of Korea,24,0,0,1,0,0
+02/07/2020,RU,Russian Federation,2,0,0,0,0,0
+02/07/2020,SG,Singapore,30,0,0,2,0,0
+02/07/2020,ES,Spain,1,0,0,0,0,0
+02/07/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/07/2020,SE,Sweden,1,0,0,0,0,0
+02/07/2020,TH,Thailand,25,0,0,0,0,0
+02/07/2020,GB,The United Kingdom,3,0,0,1,0,0
+02/07/2020,AE,United Arab Emirates,5,0,0,0,0,0
+02/07/2020,US,United States of America,12,0,0,0,0,0
+02/07/2020,VN,Viet0m,12,0,0,2,0,0
+02/08/2020,AU,Australia,15,0,0,0,0,0
+02/08/2020,BE,Belgium,1,0,0,0,0,0
+02/08/2020,KH,Cambodia,1,0,0,0,0,0
+02/08/2020,CA,Ca0da,7,0,0,0,0,0
+02/08/2020,CN,China,34598,723,0,3387,86,0
+02/08/2020,FI,Finland,1,0,0,0,0,0
+02/08/2020,FR,France,6,0,0,0,0,0
+02/08/2020,DE,Germany,14,0,0,1,0,0
+02/08/2020,IN,India,3,0,0,0,0,0
+02/08/2020,Ship,Inter0tio0l conveyance (Japan),64,0,0,3,0,0
+02/08/2020,IT,Italy,3,0,0,0,0,0
+02/08/2020,JP,Japan,25,0,0,0,0,0
+02/08/2020,MY,Malaysia,15,0,0,1,0,0
+02/08/2020,NP,Nepal,1,0,0,0,0,0
+02/08/2020,PH,Philippines,3,1,0,0,0,0
+02/08/2020,KR,Republic of Korea,24,0,0,0,0,0
+02/08/2020,RU,Russian Federation,2,0,0,0,0,0
+02/08/2020,SG,Singapore,33,0,0,3,0,0
+02/08/2020,ES,Spain,1,0,0,0,0,0
+02/08/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/08/2020,SE,Sweden,1,0,0,0,0,0
+02/08/2020,TH,Thailand,32,0,0,7,0,0
+02/08/2020,GB,The United Kingdom,3,0,0,0,0,0
+02/08/2020,AE,United Arab Emirates,7,0,0,2,0,0
+02/08/2020,US,United States of America,12,0,0,0,0,0
+02/08/2020,VN,Viet0m,13,0,0,1,0,0
+02/09/2020,AU,Australia,15,0,0,0,0,0
+02/09/2020,BE,Belgium,1,0,0,0,0,0
+02/09/2020,KH,Cambodia,1,0,0,0,0,0
+02/09/2020,CA,Ca0da,7,0,0,0,0,0
+02/09/2020,CN,China,37251,812,0,2653,89,0
+02/09/2020,FI,Finland,1,0,0,0,0,0
+02/09/2020,FR,France,11,0,0,5,0,0
+02/09/2020,DE,Germany,14,0,0,0,0,0
+02/09/2020,IN,India,3,0,0,0,0,0
+02/09/2020,Ship,Inter0tio0l conveyance (Japan),64,0,0,0,0,0
+02/09/2020,IT,Italy,3,0,0,0,0,0
+02/09/2020,JP,Japan,26,0,0,1,0,0
+02/09/2020,MY,Malaysia,17,0,0,2,0,0
+02/09/2020,NP,Nepal,1,0,0,0,0,0
+02/09/2020,PH,Philippines,3,1,0,0,0,0
+02/09/2020,KR,Republic of Korea,27,0,0,3,0,0
+02/09/2020,RU,Russian Federation,2,0,0,0,0,0
+02/09/2020,SG,Singapore,40,0,0,7,0,0
+02/09/2020,ES,Spain,1,0,0,0,0,0
+02/09/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/09/2020,SE,Sweden,1,0,0,0,0,0
+02/09/2020,TH,Thailand,32,0,0,0,0,0
+02/09/2020,GB,The United Kingdom,3,0,0,0,0,0
+02/09/2020,AE,United Arab Emirates,7,0,0,0,0,0
+02/09/2020,US,United States of America,12,0,0,0,0,0
+02/09/2020,VN,Viet0m,14,0,0,1,0,0
+02/10/2020,AU,Australia,15,0,0,0,0,0
+02/10/2020,BE,Belgium,1,0,0,0,0,0
+02/10/2020,KH,Cambodia,1,0,0,0,0,0
+02/10/2020,CA,Ca0da,7,0,0,0,0,0
+02/10/2020,CN,China,40235,909,0,2984,97,0
+02/10/2020,FI,Finland,1,0,0,0,0,0
+02/10/2020,FR,France,11,0,0,0,0,0
+02/10/2020,DE,Germany,14,0,0,0,0,0
+02/10/2020,IN,India,3,0,0,0,0,0
+02/10/2020,Ship,Inter0tio0l conveyance (Japan),70,0,0,6,0,0
+02/10/2020,IT,Italy,3,0,0,0,0,0
+02/10/2020,JP,Japan,26,0,0,0,0,0
+02/10/2020,MY,Malaysia,18,0,0,1,0,0
+02/10/2020,NP,Nepal,1,0,0,0,0,0
+02/10/2020,PH,Philippines,3,1,0,0,0,0
+02/10/2020,KR,Republic of Korea,27,0,0,0,0,0
+02/10/2020,RU,Russian Federation,2,0,0,0,0,0
+02/10/2020,SG,Singapore,43,0,0,3,0,0
+02/10/2020,ES,Spain,2,0,0,1,0,0
+02/10/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/10/2020,SE,Sweden,1,0,0,0,0,0
+02/10/2020,TH,Thailand,32,0,0,0,0,0
+02/10/2020,GB,The United Kingdom,4,0,0,1,0,0
+02/10/2020,AE,United Arab Emirates,7,0,0,0,0,0
+02/10/2020,US,United States of America,12,0,0,0,0,0
+02/10/2020,VN,Viet0m,14,0,0,0,0,0
+02/11/2020,AU,Australia,15,0,0,0,0,0
+02/11/2020,BE,Belgium,1,0,0,0,0,0
+02/11/2020,KH,Cambodia,1,0,0,0,0,0
+02/11/2020,CA,Ca0da,7,0,0,0,0,0
+02/11/2020,CN,China,42708,1017,0,2473,108,0
+02/11/2020,FI,Finland,1,0,0,0,0,0
+02/11/2020,FR,France,11,0,0,0,0,0
+02/11/2020,DE,Germany,14,0,0,0,0,0
+02/11/2020,IN,India,3,0,0,0,0,0
+02/11/2020,Ship,Inter0tio0l conveyance (Japan),135,0,0,65,0,0
+02/11/2020,IT,Italy,3,0,0,0,0,0
+02/11/2020,JP,Japan,26,0,0,0,0,0
+02/11/2020,MY,Malaysia,18,0,0,0,0,0
+02/11/2020,NP,Nepal,1,0,0,0,0,0
+02/11/2020,PH,Philippines,3,1,0,0,0,0
+02/11/2020,KR,Republic of Korea,28,0,0,1,0,0
+02/11/2020,RU,Russian Federation,2,0,0,0,0,0
+02/11/2020,SG,Singapore,45,0,0,2,0,0
+02/11/2020,ES,Spain,2,0,0,0,0,0
+02/11/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/11/2020,SE,Sweden,1,0,0,0,0,0
+02/11/2020,TH,Thailand,33,0,0,1,0,0
+02/11/2020,GB,The United Kingdom,8,0,0,4,0,0
+02/11/2020,AE,United Arab Emirates,8,0,0,1,0,0
+02/11/2020,US,United States of America,13,0,0,1,0,0
+02/11/2020,VN,Viet0m,15,0,0,1,0,0
+02/12/2020,AU,Australia,15,0,0,0,0,0
+02/12/2020,BE,Belgium,1,0,0,0,0,0
+02/12/2020,KH,Cambodia,1,0,0,0,0,0
+02/12/2020,CA,Ca0da,7,0,0,0,0,0
+02/12/2020,CN,China,44730,1114,0,2022,97,0
+02/12/2020,FI,Finland,1,0,0,0,0,0
+02/12/2020,FR,France,11,0,0,0,0,0
+02/12/2020,DE,Germany,16,0,0,2,0,0
+02/12/2020,IN,India,3,0,0,0,0,0
+02/12/2020,Ship,Inter0tio0l conveyance (Japan),175,0,0,40,0,0
+02/12/2020,IT,Italy,3,0,0,0,0,0
+02/12/2020,JP,Japan,28,0,0,2,0,0
+02/12/2020,MY,Malaysia,18,0,0,0,0,0
+02/12/2020,NP,Nepal,1,0,0,0,0,0
+02/12/2020,PH,Philippines,3,1,0,0,0,0
+02/12/2020,KR,Republic of Korea,28,0,0,0,0,0
+02/12/2020,RU,Russian Federation,2,0,0,0,0,0
+02/12/2020,SG,Singapore,47,0,0,2,0,0
+02/12/2020,ES,Spain,2,0,0,0,0,0
+02/12/2020,LK,Sri Lanka,1,0,0,0,0,0
+02/12/2020,SE,Sweden,1,0,0,0,0,0
+02/12/2020,TH,Thailand,33,0,0,0,0,0
+02/12/2020,GB,The United Kingdom,8,0,0,0,0,0
+02/12/2020,AE,United Arab Emirates,8,0,0,0,0,0
+02/12/2020,US,United States of America,13,0,0,0,0,0
+02/12/2020,VN,Viet0m,15,0,0,0,0,0
+2/13/2020,AU,Australia,15,0,0,0,0,0
+2/13/2020,BE,Belgium,1,0,0,0,0,0
+2/13/2020,KH,Cambodia,1,0,0,0,0,0
+2/13/2020,CA,Ca0da,7,0,0,0,0,0
+2/13/2020,CN,China,46550,1368,0,1820,254,0
+2/13/2020,FI,Finland,1,0,0,0,0,0
+2/13/2020,FR,France,11,0,0,0,0,0
+2/13/2020,DE,Germany,16,0,0,0,0,0
+2/13/2020,IN,India,3,0,0,0,0,0
+2/13/2020,Ship,Inter0tio0l conveyance (Japan),174,0,0,-1,0,0
+2/13/2020,IT,Italy,3,0,0,0,0,0
+2/13/2020,JP,Japan,29,0,0,1,0,0
+2/13/2020,MY,Malaysia,18,0,0,0,0,0
+2/13/2020,NP,Nepal,1,0,0,0,0,0
+2/13/2020,PH,Philippines,3,1,0,0,0,0
+2/13/2020,KR,Republic of Korea,28,0,0,0,0,0
+2/13/2020,RU,Russian Federation,2,0,0,0,0,0
+2/13/2020,SG,Singapore,50,0,0,3,0,0
+2/13/2020,ES,Spain,2,0,0,0,0,0
+2/13/2020,LK,Sri Lanka,1,0,0,0,0,0
+2/13/2020,SE,Sweden,1,0,0,0,0,0
+2/13/2020,TH,Thailand,33,0,0,0,0,0
+2/13/2020,GB,The United Kingdom,9,0,0,1,0,0
+2/13/2020,AE,United Arab Emirates,8,0,0,0,0,0
+2/13/2020,US,United States of America,14,0,0,1,0,0
+2/13/2020,VN,Viet0m,16,0,0,1,0,0
+2/14/2020,AU,Australia,15,0,0,0,0,0
+2/14/2020,BE,Belgium,1,0,0,0,0,0
+2/14/2020,KH,Cambodia,1,0,0,0,0,0
+2/14/2020,CA,Ca0da,7,0,0,0,0,0
+2/14/2020,CN,China,48548,1381,0,1998,121,0
+2/14/2020,FI,Finland,1,0,0,0,0,0
+2/14/2020,FR,France,11,0,0,0,0,0
+2/14/2020,DE,Germany,16,0,0,0,0,0
+2/14/2020,IN,India,3,0,0,0,0,0
+2/14/2020,Ship,Inter0tio0l conveyance (Japan),218,0,0,44,0,0
+2/14/2020,IT,Italy,3,0,0,0,0,0
+2/14/2020,JP,Japan,33,1,0,4,1,0
+2/14/2020,MY,Malaysia,19,0,0,1,0,0
+2/14/2020,NP,Nepal,1,0,0,0,0,0
+2/14/2020,PH,Philippines,3,1,0,0,0,0
+2/14/2020,KR,Republic of Korea,28,0,0,0,0,0
+2/14/2020,RU,Russian Federation,2,0,0,0,0,0
+2/14/2020,SG,Singapore,58,0,0,8,0,0
+2/14/2020,ES,Spain,2,0,0,0,0,0
+2/14/2020,LK,Sri Lanka,1,0,0,0,0,0
+2/14/2020,SE,Sweden,1,0,0,0,0,0
+2/14/2020,TH,Thailand,33,0,0,0,0,0
+2/14/2020,GB,The United Kingdom,9,0,0,0,0,0
+2/14/2020,AE,United Arab Emirates,8,0,0,0,0,0
+2/14/2020,US,United States of America,15,0,0,1,0,0
+2/14/2020,VN,Viet0m,16,0,0,0,0,0
+2/15/2020,AU,Australia,15,0,0,0,0,0
+2/15/2020,BE,Belgium,1,0,0,0,0,0
+2/15/2020,KH,Cambodia,1,0,0,0,0,0
+2/15/2020,CA,Ca0da,7,0,0,0,0,0
+2/15/2020,CN,China,50054,1524,0,1506,143,0
+2/15/2020,EG,Egypt,1,0,0,0,0,0
+2/15/2020,FI,Finland,1,0,0,0,0,0
+2/15/2020,FR,France,11,0,0,0,0,0
+2/15/2020,DE,Germany,16,0,0,0,0,0
+2/15/2020,IN,India,3,0,0,0,0,0
+2/15/2020,Ship,Inter0tio0l conveyance (Japan),218,0,0,0,0,0
+2/15/2020,IT,Italy,3,0,0,0,0,0
+2/15/2020,JP,Japan,41,1,0,8,0,0
+2/15/2020,MY,Malaysia,21,0,0,2,0,0
+2/15/2020,NP,Nepal,1,0,0,0,0,0
+2/15/2020,PH,Philippines,3,1,0,0,0,0
+2/15/2020,KR,Republic of Korea,28,0,0,0,0,0
+2/15/2020,RU,Russian Federation,2,0,0,0,0,0
+2/15/2020,SG,Singapore,67,0,0,9,0,0
+2/15/2020,ES,Spain,2,0,0,0,0,0
+2/15/2020,LK,Sri Lanka,1,0,0,0,0,0
+2/15/2020,SE,Sweden,1,0,0,0,0,0
+2/15/2020,TH,Thailand,34,0,0,1,0,0
+2/15/2020,GB,The United Kingdom,9,0,0,0,0,0
+2/15/2020,AE,United Arab Emirates,8,0,0,0,0,0
+2/15/2020,US,United States of America,15,0,0,0,0,0
+2/15/2020,VN,Viet0m,16,0,0,0,0,0

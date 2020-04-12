@@ -1,0 +1,510 @@
+infected_place,hospital,case,age,nationality,gender,imported,Status,origin_country,symptom_to_confirm,time_to_recover,confirmed_date,Hospital_Latitude,Hospital_Longitude,ip_lat,ip_lon
+boulder+ Gym,NCID,345,30,German (Singapore Work Pass),male,local,In hospital,Unclear origin,,,2020-03-19,1.3221,103.8472,1.2913,103.8501
+boulder+ Gym,NUH,443,29,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-22,1.2937,103.7832,1.2913,103.8501
+boulder+ Gym,NCID,305,24,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,1.2913,103.8501
+Church of Singapore (Bukit Timah),NCID,283,62,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,1.3445,103.7754
+Grace Assembly God,NCID,78,57,Singapore Citizen,female,local,Recovered,Unclear origin,8,9,2020-02-18,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,68,79,Singapore Citizen,female,local,Recovered,Unclear origin,16,14,2020-02-15,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,70,27,Singapore Citizen,female,local,Recovered,Unclear origin,12,6,2020-02-15,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,,49,46,Singapore Citizen,male,local,Recovered,Unclear origin,9,14,2020-02-12,,,1.2943,103.8163
+Grace Assembly God,NCID,67,56,Singapore Citizen,female,local,Recovered,Unclear origin,5,17,2020-02-14,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,SGH,62,44,Singapore Citizen,female,local,Recovered,Unclear origin,5,11,2020-02-14,1.2796,103.8359,1.2943,103.8163
+Grace Assembly God,NCID,66,28,Singapore Citizen,male,local,Recovered,Unclear origin,16,6,2020-02-14,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,60,51,Singapore Citizen,female,local,Recovered,Unclear origin,6,16,2020-02-14,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,88,30,Singapore Citizen,female,local,Recovered,Unclear origin,6,9,2020-02-22,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NUH,80,38,Singapore Citizen,female,local,Recovered,Unclear origin,14,9,2020-02-18,1.2937,103.7832,1.2943,103.8163
+Grace Assembly God,NCID,63,54,Singapore Citizen,female,local,Recovered,Unclear origin,4,7,2020-02-14,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,57,26,Singapore Citizen,male,local,Recovered,Unclear origin,2,8,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,73,43,Singapore Citizen,male,local,Recovered,Unclear origin,7,10,2020-02-16,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,81,50,Singapore Citizen,male,local,Recovered,Unclear origin,2,7,2020-02-18,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,53,54,Singapore Citizen,male,local,Recovered,Unclear origin,6,30,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,51,48,Singapore Citizen,male,local,Recovered,Unclear origin,9,8,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,54,54,Singapore Citizen,female,local,Recovered,Unclear origin,3,17,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,,74,29,Singapore Citizen,male,local,Recovered,Unclear origin,4,20,2020-02-16,,,1.2943,103.8163
+Grace Assembly God,NCID,58,55,Singapore Citizen,male,local,Recovered,Unclear origin,3,12,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,84,35,Singapore Citizen,female,local,Recovered,Unclear origin,15,2,2020-02-19,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,71,25,Singapore Citizen,male,local,Recovered,Unclear origin,14,19,2020-02-15,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NUH,61,57,Singapore Citizen,male,local,Recovered,Unclear origin,8,19,2020-02-14,1.2937,103.7832,1.2943,103.8163
+Grace Assembly God,NCID,48,34,Singapore Citizen,male,local,Recovered,Unclear origin,11,5,2020-02-12,1.3221,103.8472,1.2943,103.8163
+Grand Hyatt Singapore,NCID,39,51,Singapore Citizen,male,local,Recovered,Unclear origin,10,8,2020-02-08,1.3221,103.8472,1.3065,103.8333
+Grand Hyatt Singapore,NCID,36,38,Singapore Permanent Resident,female,local,Recovered,Unclear origin,15,3,2020-02-08,1.3221,103.8472,1.3065,103.8333
+Grand Hyatt Singapore,NCID,30,27,Singapore Citizen,male,local,Recovered,Unclear origin,17,7,2020-02-06,1.3221,103.8472,1.3065,103.8333
+Gym Kallang Avenue (12 Kallang Avenue),NCID,162,28,Singapore Citizen,male,local,In hospital,Unclear origin,2,,2020-03-10,1.3221,103.8472,1.311579,103.863384
+Gym Kallang Avenue (12 Kallang Avenue),NCID,163,27,Singapore Citizen,female,local,In hospital,Unclear origin,1,,2020-03-10,1.3221,103.8472,1.311579,103.863384
+Masjid Al Muttaqin,NCID,310,58,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,1.370588583,103.8461564
+Masjid Al Muttaqin Ang Mo Kio Avenue (5140 Ang Mo Kio Avenue 6),NCID,252,66,Singapore Citizen,male,,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+SAFRA Jurong,SGH,94,64,Singapore Citizen,female,local,In hospital,Unclear origin,16,,2020-02-27,1.2796,103.8359,1.3351,103.7063
+SAFRA Jurong,KKH,160,5,Singapore Citizen,male,local,Recovered,Unclear origin,2,5,2020-03-09,1.3108,103.8469,1.3351,103.7063
+SAFRA Jurong,NCID,120,62,Singapore Citizen,female,local,In hospital,Unclear origin,4,,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,150,53,Singapore Permanent Resident,female,local,Recovered,Unclear origin,8,6,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,144,58,Singapore Citizen,female,local,Recovered,Unclear origin,5,13,2020-03-08,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NUH,133,62,Indonesian,female,local,Recovered,Unclear origin,7,13,2020-03-07,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NCID,117,52,Singapore Citizen,female,local,In hospital,Unclear origin,3,,2020-03-05,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,157,54,Singapore Permanent Resident,female,local,In hospital,Unclear origin,1,,2020-03-09,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,146,64,Singapore Citizen,female,local,Recovered,Unclear origin,4,6,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NUH,118,33,Singapore Citizen,female,local,Recovered,Unclear origin,6,12,2020-03-06,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NTFGH,142,26,Singapore Citizen,male,local,In hospital,Unclear origin,3,,2020-03-08,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NCID,174,67,Singapore Citizen,female,local,Recovered,Unclear origin,4,10,2020-03-11,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,131,66,Singapore Citizen,male,local,Recovered,Unclear origin,5,10,2020-03-07,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NCID,186,64,Singapore Citizen,male,local,Recovered,Unclear origin,7,9,2020-03-12,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,155,47,Malaysian,female,local,Recovered,Unclear origin,5,13,2020-03-09,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,128,70,Singapore Citizen,male,local,In hospital,Unclear origin,1,,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,121,54,Singapore Citizen,female,local,Recovered,Unclear origin,9,13,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,139,71,Singapore Citizen,male,local,In hospital,Unclear origin,5,,2020-03-08,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NUH,115,62,Singapore Citizen,female,local,Recovered,Unclear origin,,18,2020-03-05,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NCID,161,73,Singapore Citizen,male,local,In hospital,Unclear origin,11,,2020-03-10,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,129,68,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-06,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NUH,179,66,Singapore Citizen,female,local,Recovered,Unclear origin,13,9,2020-03-12,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NCID,122,64,Singapore Citizen,female,local,Recovered,Unclear origin,3,11,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,164,57,Singapore Permanent Resident,female,local,In hospital,Unclear origin,2,,2020-03-10,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NUH,114,62,Singapore Citizen,male,local,Recovered,Unclear origin,6,16,2020-03-05,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NCID,134,56,Singapore Citizen,female,local,Recovered,Unclear origin,8,12,2020-03-07,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,KKH,96,12,Singapore Citizen,male,local,Recovered,Unclear origin,7,8,2020-02-27,1.3108,103.8469,1.3351,103.7063
+SAFRA Jurong,NTFGH,159,59,Singapore Citizen,male,local,In hospital,Unclear origin,4,,2020-03-09,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NTFGH,158,53,Singapore Citizen,female,local,In hospital,Unclear origin,4,,2020-03-09,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NCID,116,50,Singapore Citizen,female,local,Recovered,Unclear origin,5,16,2020-03-05,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,196,,Singapore Citizen,female,local,Recovered,Unclear origin,10,4,2020-03-13,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NUH,130,66,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-06,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NCID,145,67,Singapore Citizen,female,local,In hospital,Unclear origin,8,,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,127,64,Singapore Citizen,female,local,In hospital,Unclear origin,1,,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,137,60,Singapore Citizen,male,local,Recovered,Unclear origin,1,14,2020-03-07,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,185,34,Singapore Citizen,male,local,Recovered,Unclear origin,5,11,2020-03-12,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,148,67,Singapore Citizen,female,local,Recovered,Unclear origin,13,3,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,107,68,Singapore Citizen,female,local,Recovered,Unclear origin,15,4,2020-03-02,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,149,62,Singapore Citizen,male,local,Recovered,Unclear origin,14,8,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,140,62,Singapore Citizen,female,local,In hospital,Unclear origin,9,,2020-03-08,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NCID,112,62,Singapore Citizen,female,local,Recovered,Unclear origin,12,5,2020-03-04,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,125,65,Singapore Citizen,female,local,Recovered,Unclear origin,1,13,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,156,50,Singapore Permanent Resident,female,local,In hospital,Unclear origin,2,,2020-03-09,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,166,55,Singapore Citizen,female,local,In hospital,Unclear origin,6,,2020-03-10,1.290179968,103.8519897,1.3351,103.7063
+Seletar Aerospace Heights,NCID,52,37,Bangladesh,male,local,Recovered,Unclear origin,6,15,2020-02-13,1.3221,103.8472,1.420181,103.864555
+Seletar Aerospace Heights,NCID,69,26,Bangladesh,male,local,Recovered,Unclear origin,1,16,2020-02-15,1.3221,103.8472,1.420181,103.864555
+Seletar Aerospace Heights,NCID,56,30,Bangladesh,male,local,Recovered,Unclear origin,1,13,2020-02-13,1.3221,103.8472,1.420181,103.864555
+Seletar Aerospace Heights,NCID,42,39,Bangladesh,male,local,In hospital,Unclear origin,8,,2020-02-09,1.3221,103.8472,1.420181,103.864555
+Seletar Aerospace Heights,NCID,47,39,Bangladesh,male,local,Recovered,Unclear origin,4,26,2020-02-11,1.3221,103.8472,1.420181,103.864555
+The Life Church Missions Singapore,NCID,138,26,Singapore Citizen,male,local,Recovered,Unclear origin,,2,2020-03-07,1.3221,103.8472,1.328,103.8907
+The Life Church Missions Singapore,CGH,31,53,Singapore Citizen,male,local,Recovered,Unclear origin,15,10,2020-02-07,1.3402,103.9496,1.328,103.8907
+The Life Church Missions Singapore,NCID,151,51,Singapore Citizen,male,local,Recovered,Unclear origin,33,0,2020-03-09,1.3221,103.8472,1.328,103.8907
+The Life Church Missions Singapore B Paya Lebar Road (146B Paya Lebar Road),NCID,83,54,Singapore Citizen,male,local,Recovered,Unclear origin,22,2,2020-02-19,1.3221,103.8472,1.328,103.8907
+The Life Church Missions Singapore B Paya Lebar Road (146B Paya Lebar Road),NCID,90,75,Singapore Citizen,female,local,Deceased,Unclear origin,15,,2020-02-24,1.3221,103.8472,1.328,103.8907
+The Life Church Missions Singapore B Paya Lebar Road (146B Paya Lebar Road),NCID,91,58,Singapore Citizen,female,local,Recovered,Unclear origin,31,2,2020-02-25,1.3221,103.8472,1.328,103.8907
+Wizlearn Technologies Pte Ltd,NTFGH,102,41,Filipino,female,local,Recovered,Unclear origin,4,14,2020-02-29,1.290179968,103.8519897,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NTFGH,108,34,Filipino,female,local,Recovered,Unclear origin,6,18,2020-03-02,1.290179968,103.8519897,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,104,25,Myanmar,female,local,Recovered,Unclear origin,7,18,2020-03-01,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,105,49,Singapore Citizen,male,local,Recovered,Unclear origin,4,18,2020-03-01,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,103,37,Singapore Citizen,female,local,Recovered,Unclear origin,10,13,2020-03-01,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NTFGH,93,38,Singapore Citizen,male,local,Recovered,Unclear origin,9,10,2020-02-26,1.290179968,103.8519897,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,95,44,Singapore Citizen,male,local,Recovered,Unclear origin,5,16,2020-02-27,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,110,33,Singapore Citizen,male,local,Recovered,Unclear origin,10,4,2020-03-03,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,106,54,Japanese,male,local,Recovered,Unclear origin,7,10,2020-03-01,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,97,44,Singapore Permanent Resident,female,local,Recovered,Unclear origin,8,20,2020-02-28,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,98,24,Singapore Permanent Resident,male,local,Recovered,Unclear origin,1,6,2020-02-28,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,99,27,Singapore Citizen,male,local,Recovered,Unclear origin,8,16,2020-02-28,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,100,27,Malaysian,male,local,Recovered,Unclear origin,2,16,2020-02-28,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NTFGH,101,61,Singapore Citizen,male,local,Recovered,Unclear origin,4,18,2020-02-29,1.290179968,103.8519897,1.290727,103.785807
+Yong Thai Hang Cavan Road (24 Cavan Road),SGH,21,44,Indonesian,female,local,Recovered,Unclear origin,2,13,2020-02-04,1.2796,103.8359,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,25,40,Singapore Citizen,male,local,Recovered,Unclear origin,12,7,2020-02-05,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),KKH,28,0,Singapore Citizen,male,local,Recovered,Unclear origin,,16,2020-02-05,1.3108,103.8469,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),SGH,19,28,Singapore resident,female,local,Recovered,Unclear origin,6,18,2020-02-04,1.2796,103.8359,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,27,45,Singapore Citizen,male,local,Recovered,Unclear origin,5,15,2020-02-05,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,40,36,Singapore Citizen,male,local,Recovered,Unclear origin,9,4,2020-02-08,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,20,48,Singapore resident,female,local,Recovered,Unclear origin,10,25,2020-02-04,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,24,32,Malaysian,female,local,Recovered,Unclear origin,5,11,2020-02-04,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,34,40,Singapore Citizen,female,local,Recovered,Unclear origin,12,4,2020-02-08,1.3221,103.8472,1.3109,103.8617
+,AH,322,46,Singapore Permanent Resident,female,imported,In hospital,Unclear origin,,,2020-03-19,1.2866,103.8013,,
+,AH,459,67,Singapore CitGizeennd er,male,local,In hospital,Unclear origin,,,2020-03-23,1.2866,103.8013,,
+,AH,490,36,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-23,1.2866,103.8013,,
+,AH,119,55,Singapore Citizen,male,local,Recovered,Unclear origin,8,16,2020-03-06,1.2866,103.8013,,
+,CGH,349,21,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.3402,103.9496,,
+,CGH,350,61,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-20,1.3402,103.9496,,
+,CGH,394,66,Philippines (Long Term Pass holder),female,imported,In hospital,Philippines,,,2020-03-21,1.3402,103.9496,,
+,CGH,277,55,Singapore Citizen,male,imported,In hospital,United states,,,2020-03-18,1.3402,103.9496,,
+,CGH,424,24,Singapore Citizen,male,imported,In hospital,United states,,,2020-03-21,1.3402,103.9496,,
+,CGH,228,67,Singapore Citizen,male,local,In hospital,Unclear origin,12,,2020-03-16,1.3402,103.9496,,
+,CGH,6,56,Chinese,male,imported,Recovered,China,3,23,2020-01-28,1.3402,103.9496,,
+,CGH,457,40,Myanmar (Singapore Work PaAsgse h (oyldeearr)s ),male,local,In hospital,Unclear origin,,,2020-03-23,1.3402,103.9496,,
+,CGH,425,21,Singapore Citizen,female,imported,In hospital,United states,,,2020-03-21,1.3402,103.9496,,
+,CGH,316,25,Malaysia (Singapore Work Pass),male,imported,In hospital,Malaysia,,,2020-03-19,1.3402,103.9496,,
+,NCID,265,25,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-17,1.3221,103.8472,,
+,CGH,456,24,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-23,1.3402,103.9496,,
+,CGH,462,20,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3402,103.9496,,
+,CGH,385,22,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.3402,103.9496,,
+,CGH,203,36,Singapore Citizen,female,imported,In hospital,Indonesia,2,,2020-03-14,1.3402,103.9496,,
+,FPH,260,48,Singapore Permanent Resident,female,local,Recovered,Unclear origin,,6,2020-03-17,1.3131,103.8542,,
+,NCID,311,80,Singapore Citizen,female,local,Recovered,Unclear origin,,4,2020-03-18,1.3221,103.8472,,
+,KKH,390,35,Na Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-21,1.3108,103.8469,,
+,KKH,76,1,Singapore Citizen,male,imported,Recovered,China,,1,2020-02-17,1.3108,103.8469,,
+,KKH,45,2,Singapore Citizen,female,imported,Recovered,China,,4,2020-02-10,1.3108,103.8469,,
+,KKH,389,36,Russia (Singapore Work Pass holder),female,imported,In hospital,India,,,2020-03-21,1.3108,103.8469,,
+,NCID,236,30,Singapore Citizen,female,local,In hospital,Unclear origin,6,,2020-03-16,1.3221,103.8472,,
+,NCID,75,71,Singapore Citizen,female,local,Recovered,Unclear origin,,13,2020-02-16,1.3221,103.8472,,
+,KTPH,346,59,Singapore Citizen,male,imported,In hospital,India,,,2020-03-20,1.4246,103.8382,,
+,KTPH,302,49,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-18,1.4246,103.8382,,
+,KTPH,44,37,Singapore Citizen,male,local,Recovered,Unclear origin,10,9,2020-02-10,1.4246,103.8382,,
+,KTPH,480,52,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-23,1.4246,103.8382,,
+,KTPH,169,40,Singapore Citizen,male,imported,In hospital,Unclear origin,1,,2020-03-11,1.4246,103.8382,,
+,KTPH,347,27,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.4246,103.8382,,
+,KTPH,433,24,Singapore Citizen,male,imported,In hospital,Canada,,,2020-03-22,1.4246,103.8382,,
+,KTPH,188,53,Singapore Citizen,male,imported,In hospital,Thailand,5,,2020-03-13,1.4246,103.8382,,
+,KTPH,267,72,Singapore Citizen,female,imported,In hospital,Indonesia,,,2020-03-18,1.4246,103.8382,,
+,KTPH,314,58,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-19,1.4246,103.8382,,
+,KTPH,406,61,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-21,1.4246,103.8382,,
+,KTPH,398,57,Singapore Permanent Resident,male,local,In hospital,Unclear origin,,,2020-03-21,1.4246,103.8382,,
+,KTPH,287,26,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-18,1.4246,103.8382,,
+,KTPH,336,60,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-19,1.4246,103.8382,,
+,MEH,357,41,German,male,imported,In hospital,Germany,,,2020-03-20,1.3056,103.8355,,
+,MEH,403,77,Indonesia (Long Term Pass holder),male,imported,In hospital,Indonesia,,,2020-03-21,1.3056,103.8355,,
+,MEN,29,41,Singapore Citizen,male,local,Recovered,Unclear origin,9,6,2020-02-06,1.3056,103.8355,,
+,MENH,402,22,Indonesia,female,imported,In hospital,Indonesia,,,2020-03-21,1.3222,103.844,,
+,NCID,14,31,Chinese,male,imported,Recovered,China,3,17,2020-01-31,1.3221,103.8472,,
+,NCID,26,42,Chinese,female,imported,Recovered,China,8,4,2020-02-05,1.3221,103.8472,,
+,NCID,177,26,Singapore Citizen,male,imported,In hospital,Unclear origin,2,,2020-03-11,1.3221,103.8472,,
+,NCID,299,29,Singapore Citizen,male,imported,In hospital,Philippines,,,2020-03-18,1.3221,103.8472,,
+,NCID,38,52,Singapore Citizen,female,local,Recovered,Unclear origin,5,10,2020-02-08,1.3221,103.8472,,
+,NCID,180,71,Singapore Citizen,male,imported,In hospital,Unclear origin,2,,2020-03-12,1.3221,103.8472,,
+,NCID,12,37,Chinese,female,imported,Recovered,China,4,13,2020-01-30,1.3221,103.8472,,
+,NCID,13,73,Chinese,female,imported,Recovered,China,3,9,2020-01-30,1.3221,103.8472,,
+,NCID,183,29,Singapore Citizen,male,imported,In hospital,Unclear origin,6,,2020-03-12,1.3221,103.8472,,
+,NCID,184,35,Filipino,male,local,In hospital,Unclear origin,3,,2020-03-12,1.3221,103.8472,,
+,NCID,306,56,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-18,1.3221,103.8472,,
+,NCID,65,61,Singapore Citizen,female,local,Recovered,Unclear origin,2,3,2020-02-14,1.3221,103.8472,,
+,NCID,23,17,Singapore Citizen,male,imported,Recovered,China,,18,2020-02-04,1.3221,103.8472,,
+,NCID,11,31,Chinese,female,imported,Recovered,China,3,11,2020-01-30,1.3221,103.8472,,
+,NCID,471,22,Singapore CitizenAg,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,392,54,Singapore Permanent Resident,male,imported,In hospital,Indonesia,,,2020-03-21,1.3221,103.8472,,
+,NCID,191,24,Malaysian,female,imported,In hospital,Unclear origin,4,,2020-03-13,1.3221,103.8472,,
+,NCID,353,23,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-20,1.3221,103.8472,,
+,NCID,15,47,Singapore Citizen,female,imported,Recovered,China,1,16,2020-01-31,1.3221,103.8472,,
+,NCID,7,35,Chinese,female,imported,Recovered,China,4,7,2020-01-28,1.3221,103.8472,,
+,NCID,8,56,Chinese,female,imported,Recovered,China,5,20,2020-01-29,1.3221,103.8472,,
+,NCID,9,56,Chinese,male,imported,Recovered,China,6,25,2020-01-29,1.3221,103.8472,,
+,NCID,197,,Singapore Citizen,male,imported,In hospital,Malaysia,9,,2020-03-13,1.3221,103.8472,,
+,NCID,37,53,Singapore Citizen,male,local,Recovered,Unclear origin,9,23,2020-02-08,1.3221,103.8472,,
+,NCID,199,,Singapore Citizen,male,imported,Recovered,Malaysia,10,8,2020-03-13,1.3221,103.8472,,
+,NCID,79,35,Malaysian,female,local,Recovered,Unclear origin,5,10,2020-02-18,1.3221,103.8472,,
+,NCID,241,28,British,male,imported,In hospital,France,5,,2020-03-16,1.3221,103.8472,,
+,NCID,376,21,Singapore Permanent Resident,female,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,324,45,Brazil (Singapore Work Pass),male,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NCID,365,33,Netherlands (Singapore Work Pass holder),male,imported,In hospital,Netherlands,,,2020-03-20,1.3221,103.8472,,
+,NCID,5,56,Chinese,female,imported,Recovered,China,4,21,2020-01-27,1.3221,103.8472,,
+,NCID,59,61,Singapore Citizen,male,local,Recovered,Unclear origin,7,12,2020-02-14,1.3221,103.8472,,
+,NCID,207,40,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-14,1.3221,103.8472,,
+,NCID,87,32,Singapore Citizen,male,imported,Recovered,China,,2,2020-02-22,1.3221,103.8472,,
+,NCID,22,41,Singapore Citizen,male,imported,Recovered,China,,6,2020-02-04,1.3221,103.8472,,
+,NCID,210,56,German,male,imported,In hospital,Unclear origin,1,,2020-03-14,1.3221,103.8472,,
+,NCID,10,56,Chinese,male,imported,Recovered,China,9,10,2020-01-29,1.3221,103.8472,,
+,NCID,212,64,Indonesian,male,imported,Deceased,Indonesia,5,,2020-03-14,1.3221,103.8472,,
+,NCID,173,31,Singapore Citizen,male,imported,In hospital,Unclear origin,2,,2020-03-11,1.3221,103.8472,,
+,NCID,335,57,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-19,1.3221,103.8472,,
+,NCID,175,44,Singapore Citizen,male,imported,In hospital,Unclear origin,1,,2020-03-11,1.3221,103.8472,,
+,NCID,55,30,Singapore Citizen,male,local,Recovered,Unclear origin,14,6,2020-02-13,1.3221,103.8472,,
+,NCID,217,22,Spanish,male,imported,In hospital,Spain,1,,2020-03-15,1.3221,103.8472,,
+,NCID,165,30,Singapore Citizen,male,imported,In hospital,Unclear origin,1,,2020-03-10,1.3221,103.8472,,
+,NCID,85,36,Chinese,male,local,Recovered,Unclear origin,6,16,2020-02-20,1.3221,103.8472,,
+,NCID,220,53,Singapore Permanent Resident,male,imported,In hospital,France,3,,2020-03-15,1.3221,103.8472,,
+,NCID,221,28,Filipino,female,local,In hospital,Unclear origin,4,,2020-03-15,1.3221,103.8472,,
+,NCID,343,20,Singapore Permanent Resident,female,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NCID,89,41,Singapore Permanent Resident,male,local,Recovered,Unclear origin,19,6,2020-02-22,1.3221,103.8472,,
+,NCID,224,50,Singapore Citizen,male,local,In hospital,Unclear origin,2,,2020-03-15,1.3221,103.8472,,
+,NCID,225,63,Singapore Citizen,male,imported,In hospital,Indonesia,6,,2020-03-15,1.3221,103.8472,,
+,NCID,226,49,Dutch,male,imported,In hospital,Netherlands,3,,2020-03-15,1.3221,103.8472,,
+,NCID,469,43,Singapore Citizenad,male,imported,In hospital,Unclear origin,,,2020-03-23,1.3221,103.8472,,
+,NCID,470,24,Singapore Permanent Resident,female,imported,In hospital,Indonesia,,,2020-03-23,1.3221,103.8472,,
+,NCID,229,26,Singapore Permanent Resident,female,imported,In hospital,Spain,0,,2020-03-16,1.3221,103.8472,,
+,NCID,190,53,Singapore Citizen,male,local,In hospital,Unclear origin,3,,2020-03-13,1.3221,103.8472,,
+,NCID,422,56,Singapore Citizen,female,imported,In hospital,United states,,,2020-03-21,1.3221,103.8472,,
+,NCID,393,21,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,72,40,Chinese,male,local,Recovered,Unclear origin,5,12,2020-02-15,1.3221,103.8472,,
+,NCID,113,42,French,male,imported,In hospital,Unclear origin,2,,2020-03-05,1.3221,103.8472,,
+,NCID,222,41,French,male,imported,In hospital,Unclear origin,2,,2020-03-15,1.3221,103.8472,,
+,NCID,223,60,Singapore Citizen,male,imported,In hospital,Unclear origin,2,,2020-03-15,1.3221,103.8472,,
+,NCID,237,36,Indonesian,female,local,In hospital,Unclear origin,4,,2020-03-16,1.3221,103.8472,,
+,NCID,238,83,Belgium,female,imported,In hospital,Belgium,2,,2020-03-16,1.3221,103.8472,,
+,NCID,239,28,British,male,imported,In hospital,France,2,,2020-03-16,1.3221,103.8472,,
+,NCID,361,32,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-20,1.3221,103.8472,,
+,NCID,281,46,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,41,71,Singapore Citizen,male,local,In hospital,Unclear origin,8,,2020-02-09,1.3221,103.8472,,
+,NCID,243,36,Singapore Citizen,male,imported,In hospital,Unclear origin,5,,2020-03-16,1.3221,103.8472,,
+,NCID,244,53,Singapore Citizen,male,imported,In hospital,Unclear origin,9,,2020-03-17,1.3221,103.8472,,
+,NCID,285,42,Thai (Singapore Work Pass),female,imported,In hospital,Thailand,,,2020-03-18,1.3221,103.8472,,
+,NCID,286,54,British (Singapore Work Pass),male,imported,In hospital,United kingdom,,,2020-03-18,1.3221,103.8472,,
+,NCID,46,35,Singapore Permanent Resident,male,local,Recovered,Unclear origin,5,14,2020-02-11,1.3221,103.8472,,
+,NCID,248,23,Malaysian,female,,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+,NCID,249,42,Singapore Permanent Resident,male,imported,In hospital,United states,,,2020-03-17,1.3221,103.8472,,
+,NCID,250,28,British,male,imported,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+,NCID,372,22,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,373,51,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,253,24,Singapore Citizen,male,imported,In hospital,Spain,,,2020-03-17,1.3221,103.8472,,
+,NCID,214,29,Singapore Citizen,male,local,In hospital,Unclear origin,9,,2020-03-15,1.3221,103.8472,,
+,NCID,255,44,Swedish,male,imported,Recovered,Unclear origin,,4,2020-03-17,1.3221,103.8472,,
+,NCID,256,32,Filipino,female,local,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+,NCID,136,36,Italian,male,imported,Recovered,Unclear origin,6,12,2020-03-07,1.3221,103.8472,,
+,NCID,258,47,Indian,male,imported,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+,NCID,17,47,Singapore Citizen,female,imported,Recovered,China,1,10,2020-02-01,1.3221,103.8472,,
+,NCID,18,31,Chinese,female,imported,Recovered,China,3,25,2020-02-01,1.3221,103.8472,,
+,NCID,261,30,American,male,imported,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+,NCID,262,20,Indonesian,female,imported,In hospital,United kingdom,,,2020-03-17,1.3221,103.8472,,
+,NCID,263,52,Singapore Citizen,female,imported,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+,NCID,264,41,Indonesian,female,imported,In hospital,Indonesia,,,2020-03-17,1.3221,103.8472,,
+,NCID,507,29,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,266,63,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+,NCID,472,19,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,147,64,Indonesian,male,imported,In hospital,Unclear origin,5,,2020-03-08,1.3221,103.8472,,
+,NCID,430,59,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-21,1.3221,103.8472,,
+,NCID,189,36,Indian,male,imported,Recovered,India,1,4,2020-03-13,1.3221,103.8472,,
+,NCID,230,38,Singapore Citizen,female,imported,In hospital,Unclear origin,1,,2020-03-16,1.3221,103.8472,,
+,NCID,312,30,French,male,imported,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,192,32,American,male,imported,In hospital,United states,0,,2020-03-13,1.3221,103.8472,,
+,NCID,32,42,Singapore Citizen,female,local,Recovered,Unclear origin,5,12,2020-02-07,1.3221,103.8472,,
+,NCID,154,52,British,male,imported,In hospital,Unclear origin,1,,2020-03-09,1.3221,103.8472,,
+,NCID,397,43,Ireland (Singapore Work Pass holder),male,imported,In hospital,Ireland,,,2020-03-21,1.3221,103.8472,,
+,NCID,451,62,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-22,1.3221,103.8472,,
+,NCID,278,48,American,female,imported,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,279,71,Singapore Citizen,male,imported,In hospital,Philippines,,,2020-03-18,1.3221,103.8472,,
+,NCID,280,21,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-18,1.3221,103.8472,,
+,NCID,200,,Singapore Citizen,female,local,In hospital,Unclear origin,1,,2020-03-13,1.3221,103.8472,,
+,NCID,282,76,Swiss,male,imported,In hospital,France,,,2020-03-18,1.3221,103.8472,,
+,NCID,500,24,Singapore CitizenHo ad,male,imported,In hospital,Unclear origin,,,2020-03-23,1.3221,103.8472,,
+,NCID,284,32,Singapore Citizen,male,imported,In hospital,United states,,,2020-03-18,1.3221,103.8472,,
+,NCID,325,38,Philippines (Singapore Work Pass),male,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NCID,205,30,Filipino,female,imported,In hospital,Philippines,,,2020-03-14,1.3221,103.8472,,
+,NCID,126,77,Singapore Citizen,male,local,In hospital,Unclear origin,1,,2020-03-06,1.3221,103.8472,,
+,NCID,288,71,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,289,62,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,290,69,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,251,59,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-17,1.3221,103.8472,,
+,NCID,171,27,Singapore Citizen,male,imported,Recovered,Unclear origin,2,6,2020-03-11,1.3221,103.8472,,
+,NCID,172,42,Philippines,female,local,In hospital,Unclear origin,6,,2020-03-11,1.3221,103.8472,,
+,NCID,254,43,Singapore Permanent Resident,female,imported,In hospital,France,,,2020-03-17,1.3221,103.8472,,
+,NCID,295,55,Singapore Citizen,male,imported,In hospital,United states,,,2020-03-18,1.3221,103.8472,,
+,NCID,296,25,Malaysian (Singapore Work Pass),female,imported,In hospital,United kingdom,,,2020-03-18,1.3221,103.8472,,
+,NCID,176,37,British,female,imported,In hospital,Unclear origin,4,,2020-03-11,1.3221,103.8472,,
+,NCID,298,44,Singapore Citizen,male,imported,In hospital,India,,,2020-03-18,1.3221,103.8472,,
+,NCID,420,21,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,300,28,German (Singapore Work Pass),male,imported,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,301,63,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,423,24,Singapore Citizen,male,imported,In hospital,Ireland,,,2020-03-21,1.3221,103.8472,,
+,NCID,303,27,Malaysian (Singapore Long Term Pass),male,local,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,304,27,Singapore Citizen,female,imported,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,SGH,246,39,Canadian,male,imported,In hospital,Japan,7,,2020-03-17,1.2796,103.8359,,
+,NCID,427,39,Singapore Citizen,male,imported,In hospital,United states,,,2020-03-21,1.3221,103.8472,,
+,NCID,307,22,Singapore Citizen,female,imported,In hospital,Philippines,,,2020-03-18,1.3221,103.8472,,
+,NCID,187,48,Singapore Citizen,male,imported,In hospital,Malaysia,8,,2020-03-12,1.3221,103.8472,,
+,NCID,309,60,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,323,24,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NCID,431,58,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,432,53,UK (Long Term Pass holder),female,imported,In hospital,Indonesia,,,2020-03-21,1.3221,103.8472,,
+,NCID,474,22,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,193,26,Malaysian,male,imported,In hospital,Unclear origin,1,,2020-03-13,1.3221,103.8472,,
+,NCID,194,24,Chinese,female,imported,In hospital,Unclear origin,5,,2020-03-13,1.3221,103.8472,,
+,NCID,195,47,Singapore Citizen,male,imported,In hospital,Unclear origin,7,,2020-03-13,1.3221,103.8472,,
+,NCID,330,67,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-19,1.3221,103.8472,,
+,NCID,439,55,Denmark (Long Term Pass holder),female,imported,In hospital,Denmark,,,2020-03-22,1.3221,103.8472,,
+,NCID,77,35,Singapore Citizen,male,local,Recovered,Unclear origin,7,8,2020-02-17,1.3221,103.8472,,
+,NCID,481,37,Singapore Permanent Resident,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,482,35,Singapore Citizen,male,imported,In hospital,United states,,,2020-03-23,1.3221,103.8472,,
+,NCID,362,45,Germany (Long Term Pass holder),female,imported,In hospital,Germany,,,2020-03-20,1.3221,103.8472,,
+,NCID,416,21,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,445,21,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NCID,405,25,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,124,37,Singapore Permanent Resident,female,imported,In hospital,Germany,1,,2020-03-06,1.3221,103.8472,,
+,NCID,206,33,Zealand,female,imported,In hospital,United states,,,2020-03-14,1.3221,103.8472,,
+,NCID,368,19,Indonesian (Long Term Visit Pass holder),female,local,In hospital,Unclear origin,,,2020-03-20,1.3221,103.8472,,
+,NCID,208,26,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-14,1.3221,103.8472,,
+,NCID,477,44,Ireland Nat (Singapore Work Pass holder),male,local,In hospital,Unclear origin,,,2020-03-23,1.3221,103.8472,,
+,NCID,331,49,Singapore Permanent Resident,female,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NCID,211,35,Filipino,female,local,Recovered,Unclear origin,,9,2020-03-14,1.3221,103.8472,,
+,NCID,333,48,Colombia (Singapore Long Term Pass),male,imported,In hospital,United states,,,2020-03-19,1.3221,103.8472,,
+,NCID,468,28,Singapore Permanent Resident,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,496,21,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,415,64,Indonesia,female,imported,In hospital,Indonesia,,,2020-03-21,1.3221,103.8472,,
+,NCID,216,30,Singapore Citizen,male,imported,In hospital,Unclear origin,5,,2020-03-15,1.3221,103.8472,,
+,NCID,338,57,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-19,1.3221,103.8472,,
+,NCID,339,66,Singapore Citizen,male,imported,In hospital,Philippines,,,2020-03-19,1.3221,103.8472,,
+,NCID,340,27,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-19,1.3221,103.8472,,
+,NCID,341,31,Germany (Singapore Work Pass),male,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NCID,342,31,Singapore Citizen,male,imported,In hospital,Thailand,,,2020-03-19,1.3221,103.8472,,
+,NCID,449,21,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NCID,344,21,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NCID,506,49,Australia (Singapore Work Pass holder),male,imported,In hospital,Unclear origin,,,2020-03-23,1.3221,103.8472,,
+,NCID,467,20,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,440,55,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NCID,509,53,Singapore Citizen,male,imported,In hospital,Indonesia,,,2020-03-23,1.3221,103.8472,,
+,NCID,428,22,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,269,19,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-18,1.3221,103.8472,,
+,NCID,444,44,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-22,1.3221,103.8472,,
+,,86,24,Singapore Citizen,male,local,Recovered,Unclear origin,7,15,2020-02-21,,,,
+,NCID,473,25,Singapore CitizenGe,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,233,61,British,male,imported,In hospital,United kingdom,1,,2020-03-16,1.3221,103.8472,,
+,NCID,355,38,Australian (Long Term Visit Pass holder),male,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,356,27,Australian (Singapore Work Pass holder),male,imported,In hospital,India,,,2020-03-20,1.3221,103.8472,,
+,NCID,478,80,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-23,1.3221,103.8472,,
+,NCID,358,39,Singapore Permanent Resident,female,local,In hospital,Unclear origin,,,2020-03-20,1.3221,103.8472,,
+,NCID,399,23,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,360,26,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,401,20,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,442,48,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-22,1.3221,103.8472,,
+,NCID,450,44,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-22,1.3221,103.8472,,
+,NCID,404,28,Australia (Long Term Pass holder),male,imported,In hospital,Unclear origin,,,2020-03-21,1.3221,103.8472,,
+,NCID,475,22,Singapore Citizen,female,imported,In hospital,Ireland,,,2020-03-23,1.3221,103.8472,,
+,NCID,446,26,Indonesia (Long Term Pass holder),female,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NCID,407,25,Spain,male,imported,In hospital,Unclear origin,,,2020-03-21,1.3221,103.8472,,
+,NCID,247,41,Singapore Citizen,male,imported,In hospital,Unclear origin,0,,2020-03-17,1.3221,103.8472,,
+,NCID,369,34,Singapore Citizen,male,imported,In hospital,Thailand,,,2020-03-20,1.3221,103.8472,,
+,NCID,476,68,Indonesia (Singapore Work Pass holder),male,imported,In hospital,Indonesia,,,2020-03-23,1.3221,103.8472,,
+,NCID,371,22,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,493,23,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,426,55,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-21,1.3221,103.8472,,
+,NCID,374,23,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,375,25,Singapore Citizen,female,imported,In hospital,United states,,,2020-03-20,1.3221,103.8472,,
+,NCID,455,29,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NCID,498,22,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,378,38,UK (Long Term Visit Pass holder),male,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,419,45,Netherlands,male,imported,In hospital,Unclear origin,,,2020-03-21,1.3221,103.8472,,
+,NCID,259,30,Singapore Citizen,female,imported,In hospital,Philippines,,,2020-03-17,1.3221,103.8472,,
+,NCID,502,74,India Ag (Long Term Pass holder),female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,367,25,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-20,1.3221,103.8472,,
+,NCID,383,42,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-20,1.3221,103.8472,,
+,NCID,384,65,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-20,1.3221,103.8472,,
+,NCID,465,41,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,412,19,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,413,29,Singapore Citizen,male,imported,In hospital,Switzerland,,,2020-03-21,1.3221,103.8472,,
+,SKH,488,36,Singapore Citizen Ge,male,imported,In hospital,United kingdom,,,2020-03-23,1.3955,103.8934,,
+,NCID,268,64,British,male,imported,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NCID,483,28,Singapore Citizen Ho,female,imported,In hospital,United states,,,2020-03-23,1.3221,103.8472,,
+,NTFGH,178,37,Filipino,male,imported,Recovered,Philippines,3,12,2020-03-11,1.290179968,103.8519897,,
+,SGH,135,40,Singapore Citizen,male,local,Recovered,Unclear origin,10,7,2020-03-07,1.2796,103.8359,,
+,NCID,486,22,Singapore Citizen Ag,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,313,39,British (Singapore Work Pass),male,imported,In hospital,United kingdom,,,2020-03-18,1.3221,103.8472,,
+,NCID,274,50,American (Singapore Work Pass),male,imported,In hospital,United states,,,2020-03-18,1.3221,103.8472,,
+,NCID,466,55,Singapore Permanent Resident,male,imported,In hospital,Indonesia,,,2020-03-23,1.3221,103.8472,,
+,NCID,410,20,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NUH,321,65,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-19,1.2937,103.7832,,
+,NCID,487,72,Singapore Citizen,male,imported,In hospital,Indonesia,,,2020-03-23,1.3221,103.8472,,
+,NCID,400,56,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,320,34,Singapore Permanent Resident,male,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NCID,441,57,Singapore Citizen,female,imported,In hospital,Unclear origin,,,2020-03-22,1.3221,103.8472,,
+,NUH,359,45,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-20,1.2937,103.7832,,
+,SGH,231,78,Australian,male,imported,In hospital,United states,10,,2020-03-14,1.2796,103.8359,,
+,NCID,364,52,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-20,1.3221,103.8472,,
+,NCID,497,63,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,326,33,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-19,1.3221,103.8472,,
+,NCID,327,38,Singapore Citizen,female,imported,In hospital,Unclear origin,,,2020-03-19,1.3221,103.8472,,
+,NCID,328,63,Singapore Permanent Resident,female,imported,In hospital,Unclear origin,,,2020-03-19,1.3221,103.8472,,
+,NTFGH,276,21,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-18,1.290179968,103.8519897,,
+,NCID,411,30,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,291,52,Indian (Singapore Long Term Pass),male,local,Recovered,Unclear origin,,5,2020-03-18,1.3221,103.8472,,
+,NCID,292,64,Singapore Citizen,female,imported,In hospital,Turkey,,,2020-03-18,1.3221,103.8472,,
+,NCID,293,30,British (Singapore Work Pass),male,imported,In hospital,United kingdom,,,2020-03-18,1.3221,103.8472,,
+,NCID,294,58,Singapore Permanent Resident,female,local,In hospital,Unclear origin,,,2020-03-18,1.3221,103.8472,,
+,NTFGH,275,27,Singapore Citizen,male,local,Recovered,Unclear origin,,4,2020-03-18,1.290179968,103.8519897,,
+,NTFGH,201,52,Singapore Citizen,female,local,Recovered,Unclear origin,8,5,2020-03-14,1.290179968,103.8519897,,
+,NCID,297,31,Indonesian (Singapore Work Pass),male,imported,In hospital,Indonesia,,,2020-03-18,1.3221,103.8472,,
+,NTFGH,272,65,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-18,1.290179968,103.8519897,,
+,NTFGH,270,62,Singapore Citizen,female,imported,In hospital,Unclear origin,,,2020-03-18,1.290179968,103.8519897,,
+,NCID,421,23,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NTFGH,167,35,Filipino,female,imported,In hospital,Unclear origin,2,,2020-03-10,1.290179968,103.8519897,,
+,NUH,387,30,Switzerland (Singapore Work Pass holder) G,female,imported,In hospital,Unclear origin,,,2020-03-21,1.2937,103.7832,,
+,NCID,504,32,Ge Singapore Citizen,female,imported,In hospital,Unclear origin,,,2020-03-23,1.3221,103.8472,,
+,NCID,505,24,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,SKH,33,39,Singapore Citizen,female,local,Recovered,Unclear origin,8,12,2020-02-07,1.3955,103.8934,,
+,NTFGH,386,64,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-21,1.290179968,103.8519897,,
+,SGH,2,53,Chinese,female,imported,Recovered,China,3,14,2020-01-24,1.2796,103.8359,,
+,NCID,308,59,Singapore Citizen,male,imported,In hospital,United states,,,2020-03-18,1.3221,103.8472,,
+,NCID,429,31,Singapore Citizen,female,imported,In hospital,Unclear origin,,,2020-03-21,1.3221,103.8472,,
+,NCID,242,64,Singapore Citizen,female,local,In hospital,Unclear origin,2,,2020-03-16,1.3221,103.8472,,
+,SGH,381,27,Singapore Permanent Resident,female,imported,In hospital,Spain,,,2020-03-20,1.2796,103.8359,,
+,SGH,215,65,Singapore Citizen,male,imported,In hospital,Thailand,1,,2020-03-15,1.2796,103.8359,,
+,SGH,16,38,Chinese,male,imported,Recovered,China,8,20,2020-01-31,1.2796,103.8359,,
+,NCID,435,30,Singapore Citizen,female,imported,In hospital,Malaysia,,,2020-03-22,1.3221,103.8472,,
+,NCID,436,46,Gender Singapore Citizen,male,imported,In hospital,Philippines,,,2020-03-22,1.3221,103.8472,,
+,NCID,503,26,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,370,73,Malaysia (Singapore Work Pass holder),male,imported,In hospital,Indonesia,,,2020-03-20,1.3221,103.8472,,
+,NUH,409,23,Australia (Singapore Work Pass holder),female,imported,In hospital,United states,,,2020-03-21,1.2937,103.7832,,
+,NCID,198,61,Singapore Citizen,female,local,Recovered,Unclear origin,6,9,2020-03-13,1.3221,103.8472,,
+,NCID,494,24,Singapore Citizen,male,imported,In hospital,Sweden,,,2020-03-23,1.3221,103.8472,,
+,NCID,334,32,Singapore Citizen,female,imported,In hospital,United states,,,2020-03-19,1.3221,103.8472,,
+,NCID,414,37,Australia (Long Term Pass holder),male,imported,In hospital,United states,,,2020-03-21,1.3221,103.8472,,
+,SGH,354,59,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.2796,103.8359,,
+,SGH,245,76,,male,local,In hospital,Unclear origin,4,,2020-03-17,1.2796,103.8359,,
+,NUH,227,53,Singapore Citizen,male,imported,In hospital,France,4,,2020-03-16,1.2937,103.7832,,
+,NCID,366,26,Singapore Citizen,female,imported,In hospital,Unclear origin,,,2020-03-20,1.3221,103.8472,,
+,NUH,64,50,Singapore Citizen,male,local,Recovered,Unclear origin,11,9,2020-02-14,1.2937,103.7832,,
+,NUH,257,19,French,male,,In hospital,United kingdom,,,2020-03-17,1.2937,103.7832,,
+,NCID,329,64,Singapore Citizen,male,imported,In hospital,Turkey,,,2020-03-19,1.3221,103.8472,,
+,NUH,461,49,Singapore Citizen,female,imported,In hospital,Malaysia,,,2020-03-23,1.2937,103.7832,,
+,NUH,143,42,Singapore Permanent Resident,male,local,Recovered,Unclear origin,3,12,2020-03-08,1.2937,103.7832,,
+,NCID,332,36,US (Singapore Long Term Pass),female,imported,In hospital,United kingdom,,,2020-03-19,1.3221,103.8472,,
+,NUH,377,59,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.2937,103.7832,,
+,NCID,508,23,Singapore CitizenNat,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NUH,348,51,Singapore Citizen,female,local,In hospital,Unclear origin,,,2020-03-20,1.2937,103.7832,,
+,NUH,218,55,Singapore Citizen,female,local,Recovered,Unclear origin,12,6,2020-03-15,1.2937,103.7832,,
+,NCID,458,20,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,499,27,Singapore Citizen,female,imported,In hospital,United states,,,2020-03-23,1.3221,103.8472,,
+,NCID,379,62,Sweden (Singapore Work Pass holder),male,imported,In hospital,Indonesia,,,2020-03-20,1.3221,103.8472,,
+,NUH,479,35,Indonesia (Singapore Work Pass holder),female,local,In hospital,Unclear origin,,,2020-03-23,1.2937,103.7832,,
+,NUH,460,23,New Zealand,female,imported,In hospital,United kingdom,,,2020-03-23,1.2937,103.7832,,
+,SKH,319,67,Philippines (Singapore Work Pass),female,imported,In hospital,Philippines,,,2020-03-19,1.3955,103.8934,,
+,NUH,408,27,Singapore Citizen,male,imported,In hospital,United states,,,2020-03-21,1.2937,103.7832,,
+,NTFGH,141,69,Singapore Citizen,male,local,In hospital,Unclear origin,7,,2020-03-08,1.290179968,103.8519897,,
+,SGH,3,37,Chinese,male,imported,Recovered,China,1,27,2020-01-24,1.2796,103.8359,,
+,SGH,1,66,Chinese,male,imported,Recovered,China,3,26,2020-01-23,1.2796,103.8359,,
+,SKH,351,51,Singapore Citizen,male,imported,In hospital,Indonesia,,,2020-03-20,1.3955,103.8934,,
+,SGH,170,56,Indonesian,female,imported,Recovered,Unclear origin,4,13,2020-03-11,1.2796,103.8359,,
+,SGH,92,47,Singapore Citizen,male,local,Recovered,Unclear origin,9,14,2020-02-26,1.2796,103.8359,,
+,SKH,4,36,Chinese,male,imported,Recovered,China,3,17,2020-01-26,1.3955,103.8934,,
+,SKH,363,49,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-20,1.3955,103.8934,,
+,NCID,418,44,Singapore Permanent Resident,male,imported,In hospital,United states,,,2020-03-21,1.3221,103.8472,,
+,,181,83,Indonesian,male,imported,In hospital,Unclear origin,4,,2020-03-12,,,,
+,SGH,380,34,Singapore Citizen,male,imported,In hospital,Switzerland,,,2020-03-20,1.2796,103.8359,,
+,SGH,152,65,Indonesian,male,imported,In hospital,Unclear origin,9,,2020-03-09,1.2796,103.8359,,
+,,50,62,Singapore Citizen,male,local,Recovered,Unclear origin,5,9,2020-02-12,,,,
+,SGH,235,31,Singapore Citizen,female,local,Recovered,Unclear origin,5,7,2020-03-16,1.2796,103.8359,,
+,SGH,109,70,Singapore Citizen,male,local,In hospital,Unclear origin,7,,2020-03-03,1.2796,103.8359,,
+,SGH,204,32,American,male,imported,In hospital,Japan,2,,2020-03-14,1.2796,103.8359,,
+,NCID,417,18,France (Long Term Pass holder),female,imported,In hospital,United kingdom,,,2020-03-21,1.3221,103.8472,,
+,NCID,495,29,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,484,21,Singapore Citizenad,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,SKH,213,48,Singapore Citizen,male,imported,In hospital,Indonesia,6,,2020-03-15,1.3955,103.8934,,
+,NTFGH,82,57,Singapore Citizen,female,local,In hospital,Unclear origin,10,,2020-02-19,1.290179968,103.8519897,,
+,SKH,396,46,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-21,1.3955,103.8934,,
+,SGH,232,65,Australian,female,imported,In hospital,United states,13,,2020-03-16,1.2796,103.8359,,
+,NCID,447,32,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NCID,448,21,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NCID,395,54,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-21,1.3221,103.8472,,
+,NCID,489,25,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NCID,492,24,India (Long Term Pass holder),female,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,SKH,43,54,Singapore Citizen,male,local,Recovered,Unclear origin,9,27,2020-02-09,1.3955,103.8934,,
+,SGH,123,47,Singapore Citizen,male,imported,Recovered,South africa,8,11,2020-03-06,1.2796,103.8359,,
+,NTFGH,315,57,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-19,1.290179968,103.8519897,,
+,NCID,453,41,India (Long Term Pass holder),male,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NCID,454,47,Singapore Citizen,female,imported,In hospital,United states,,,2020-03-22,1.3221,103.8472,,
+,NCID,501,65,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,SKH,318,58,China (Singapore Long Term Pass),female,local,In hospital,Unclear origin,,,2020-03-19,1.3955,103.8934,,
+,SKH,317,29,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-19,1.3955,103.8934,,
+,SKH,168,47,Singapore Citizen,male,local,Recovered,Unclear origin,9,10,2020-03-11,1.3955,103.8934,,
+,SGH,234,86,Singapore Citizen,male,local,In hospital,Unclear origin,17,,2020-03-16,1.2796,103.8359,,
+,SKH,202,44,Singapore Citizen,male,imported,In hospital,Malaysia,10,,2020-03-14,1.3955,103.8934,,
+,NUH,240,27,Singapore Permanent Resident,male,imported,In hospital,Spain,2,,2020-03-16,1.2937,103.7832,,
+,SKH,219,30,Singapore Citizen,male,local,In hospital,Unclear origin,2,,2020-03-15,1.3955,103.8934,,
+,SGH,437,33,UK (Singapore Work Pass holder),male,imported,In hospital,Unclear origin,,,2020-03-22,1.2796,103.8359,,
+,NCID,434,36,Singapore Citizen (ye,male,local,In hospital,Unclear origin,,,2020-03-22,1.3221,103.8472,,
+,SGH,352,43,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-20,1.2796,103.8359,,
+,NCID,485,20,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NUH,132,37,Singapore Permanent Resident,female,imported,Recovered,Unclear origin,7,13,2020-03-07,1.2937,103.7832,,
+,SGH,153,65,Singapore Citizen,female,imported,In hospital,Unclear origin,5,,2020-03-09,1.2796,103.8359,,
+,NCID,491,22,Singapore Citizen,male,imported,In hospital,United kingdom,,,2020-03-23,1.3221,103.8472,,
+,NTFGH,271,29,Singapore CitizeNna ti,male,imported,In hospital,United kingdom,,,2020-03-18,1.290179968,103.8519897,,
+,NUH,273,69,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-18,1.2937,103.7832,,
+,SGH,382,55,Singapore Citizen,female,imported,In hospital,United kingdom,,,2020-03-20,1.2796,103.8359,,
+,NTFGH,463,64,Singapore Citizen,male,imported,In hospital,Unclear origin,,,2020-03-23,1.290179968,103.8519897,,
+,SGH,35,64,Singapore Citizen,male,local,In hospital,Unclear origin,9,,2020-02-08,1.2796,103.8359,,
+,,182,76,Indonesian,female,imported,In hospital,Unclear origin,3,,2020-03-12,,,,
+,NUH,337,31,Switzerland (Singapore Work Pass),male,imported,In hospital,Unclear origin,,,2020-03-19,1.2937,103.7832,,
+,NCID,452,22,Singapore Permanent Resident,female,imported,In hospital,United kingdom,,,2020-03-22,1.3221,103.8472,,
+,NTFGH,464,23,Singapore CitNizaetnio nality,male,imported,In hospital,United kingdom,,,2020-03-23,1.290179968,103.8519897,,
+,NUH,391,53,Australia,male,imported,In hospital,Unclear origin,,,2020-03-21,1.2937,103.7832,,
+,SGH,209,32,Singapore Citizen,female,imported,In hospital,United states,,,2020-03-14,1.2796,103.8359,,
+,SGH,438,55,US ona,female,imported,In hospital,United states,,,2020-03-22,1.2796,103.8359,,
+,NUH,111,43,Singapore Permanent Resident,male,local,Recovered,Unclear origin,9,9,2020-03-04,1.2937,103.7832,,
+,SKH,388,40,Singapore Citizen,male,local,In hospital,Unclear origin,,,2020-03-21,1.3955,103.8934,,

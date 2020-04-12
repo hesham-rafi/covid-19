@@ -1,0 +1,244 @@
+infected_place,hospital,case,age,nationality,gender,news_date,imported,Status,symptom_to_confirm,time_to_recover,confirmed_date,Hospital_Latitude,Hospital_Longitude,ip_lat,ip_lon
+Grace Assembly God,NCID,57,26,Singapore Citizen,male,13th Feb 2020,local,Recovered,2,8,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,70,27,Singapore Citizen,female,15th Feb 2020,local,Recovered,12,6,2020-02-15,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,66,28,Singapore Citizen,male,14th Feb 2020,local,Recovered,16,6,2020-02-14,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,67,56,Singapore Citizen,female,14th Feb 2020,local,Recovered,5,17,2020-02-14,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,51,48,Singapore Citizen,male,13th Feb 2020,local,Recovered,9,8,2020-02-12,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,48,34,Singapore Citizen,male,12th Feb 2020,local,Recovered,11,5,2020-02-11,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,58,55,Singapore Citizen,male,13th Feb 2020,local,Recovered,3,12,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NA,49,46,Singapore Citizen,male,12th Feb 2020,local,Recovered,9,14,2020-02-11,NA,NA,1.2943,103.8163
+Grace Assembly God,NCID,81,50,Singapore Citizen,male,18th Feb 2020,local,Recovered,2,7,2020-02-18,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NUH,80,38,Singapore Citizen,female,18th Feb 2020,local,Recovered,14,9,2020-02-18,1.2937,103.7832,1.2943,103.8163
+Grace Assembly God,NCID,88,30,Singapore Citizen,female,22nd Feb 2020,local,Recovered,6,9,2020-02-21,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,68,79,Singapore Citizen,female,15th Feb 2020,local,Recovered,16,14,2020-02-14,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,60,51,Singapore Citizen,female,14th Feb 2020,local,Recovered,6,16,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,73,43,Singapore Citizen,male,16th Feb 2020,local,Recovered,7,10,2020-02-15,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,78,57,Singapore Citizen,female,18th Feb 2020,local,Recovered,8,9,2020-02-17,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,71,25,Singapore Citizen,male,15th Feb 2020,local,Recovered,14,19,2020-02-15,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,53,54,Singapore Citizen,male,13th Feb 2020,local,Recovered,6,30,2020-02-12,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,54,54,Singapore Citizen,female,13th Feb 2020,local,Recovered,3,17,2020-02-13,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NA,74,29,Singapore Citizen,male,16th Feb 2020,local,Recovered,4,20,2020-02-15,NA,NA,1.2943,103.8163
+Grace Assembly God,NCID,63,54,Singapore Citizen,female,14th Feb 2020,local,Recovered,4,7,2020-02-14,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NCID,84,35,Singapore Citizen,female,19th Feb 2020,local,Recovered,15,2,2020-02-19,1.3221,103.8472,1.2943,103.8163
+Grace Assembly God,NUH,61,57,Singapore Citizen,male,14th Feb 2020,local,Recovered,8,19,2020-02-13,1.2937,103.7832,1.2943,103.8163
+Grace Assembly God,SGH,62,44,Singapore Citizen,female,14th Feb 2020,local,Recovered,5,11,2020-02-13,1.2796,103.8359,1.2943,103.8163
+Grand Hyatt Singapore,NCID,39,51,Singapore Citizen,male,8th Feb 2020,local,Recovered,10,8,2020-02-08,1.3221,103.8472,1.3065,103.8333
+Grand Hyatt Singapore,NCID,30,27,Singapore Citizen,male,6th Feb 2020,local,Recovered,17,7,2020-02-06,1.3221,103.8472,1.3065,103.8333
+Grand Hyatt Singapore,NCID,36,38,Singapore Permanent Resident,female,8th Feb 2020,local,Recovered,15,3,2020-02-07,1.3221,103.8472,1.3065,103.8333
+Gym Kallang Avenue (12 Kallang Avenue),NCID,162,28,Singapore Citizen,male,10th Mar 2020,local,In hospital,2,NA,2020-03-09,1.3221,103.8472,1.311579,103.863384
+Gym Kallang Avenue (12 Kallang Avenue),NCID,163,27,Singapore Citizen,female,10th Mar 2020,local,In hospital,1,NA,2020-03-09,1.3221,103.8472,1.311579,103.863384
+SAFRA Jurong,NCID,150,53,Singapore Permanent Resident,female,8th Mar 2020,local,Recovered,8,6,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,166,55,Singapore Citizen,female,10th Mar 2020,local,In hospital,6,NA,2020-03-10,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NCID,122,64,Singapore Citizen,female,6th Mar 2020,local,Recovered,3,11,2020-03-05,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,164,57,Singapore Permanent Resident,female,10th Mar 2020,local,In hospital,2,NA,2020-03-10,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,149,62,Singapore Citizen,male,8th Mar 2020,local,Recovered,14,8,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,131,66,Singapore Citizen,male,7th Mar 2020,local,Recovered,5,10,2020-03-06,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,KKH,160,5,Singapore Citizen,male,9th Mar 2020,local,Recovered,2,5,2020-03-09,1.3108,103.8469,1.3351,103.7063
+SAFRA Jurong,NCID,134,56,Singapore Citizen,female,7th Mar 2020,local,Recovered,8,12,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,146,64,Singapore Citizen,female,8th Mar 2020,local,Recovered,4,6,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,174,67,Singapore Citizen,female,11th Mar 2020,local,In hospital,4,NA,2020-03-11,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,148,67,Singapore Citizen,female,8th Mar 2020,local,Recovered,13,3,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NUH,133,62,Indonesian,female,7th Mar 2020,local,In hospital,7,NA,2020-03-06,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NCID,121,54,Singapore Citizen,female,6th Mar 2020,local,Recovered,9,13,2020-03-05,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,161,73,Singapore Citizen,male,10th Mar 2020,local,In hospital,11,NA,2020-03-09,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,159,59,Singapore Citizen,male,9th Mar 2020,local,In hospital,4,NA,2020-03-09,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,SGH,94,64,Singapore Citizen,female,27th Feb 2020,local,In hospital,16,NA,2020-02-26,1.2796,103.8359,1.3351,103.7063
+SAFRA Jurong,NUH,130,66,Singapore Citizen,male,6th Mar 2020,local,In hospital,NA,NA,2020-03-06,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NCID,128,70,Singapore Citizen,male,6th Mar 2020,local,In hospital,1,NA,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,137,60,Singapore Citizen,male,7th Mar 2020,local,In hospital,1,NA,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,125,65,Singapore Citizen,female,6th Mar 2020,local,Recovered,1,13,2020-03-06,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,117,52,Singapore Citizen,female,5th Mar 2020,local,In hospital,3,NA,2020-03-05,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,142,26,Singapore Citizen,male,8th Mar 2020,local,In hospital,3,NA,2020-03-07,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NTFGH,139,71,Singapore Citizen,male,8th Mar 2020,local,In hospital,5,NA,2020-03-07,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NCID,107,68,Singapore Citizen,female,2nd Mar 2020,local,Recovered,15,4,2020-03-01,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,186,64,Singapore Citizen,male,12th Mar 2020,local,In hospital,7,NA,2020-03-12,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,140,62,Singapore Citizen,female,8th Mar 2020,local,In hospital,9,NA,2020-03-07,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,KKH,96,12,Singapore Citizen,male,27th Feb 2020,local,Recovered,7,8,2020-02-27,1.3108,103.8469,1.3351,103.7063
+SAFRA Jurong,NUH,118,33,Singapore Citizen,female,6th Mar 2020,local,Recovered,6,12,2020-03-05,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NUH,179,66,Singapore Citizen,female,12th Mar 2020,local,In hospital,13,NA,2020-03-11,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NTFGH,158,53,Singapore Citizen,female,9th Mar 2020,local,In hospital,4,NA,2020-03-09,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NCID,157,54,Singapore Permanent Resident,female,9th Mar 2020,local,In hospital,1,NA,2020-03-09,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,127,64,Singapore Citizen,female,6th Mar 2020,local,In hospital,1,NA,2020-03-05,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,116,50,Singapore Citizen,female,5th Mar 2020,local,In hospital,5,NA,2020-03-05,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,120,62,Singapore Citizen,female,6th Mar 2020,local,In hospital,4,NA,2020-03-05,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,156,50,Singapore Permanent Resident,female,9th Mar 2020,local,In hospital,2,NA,2020-03-09,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,129,68,Singapore Citizen,female,6th Mar 2020,local,In hospital,NA,NA,2020-03-06,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NCID,145,67,Singapore Citizen,female,8th Mar 2020,local,In hospital,8,NA,2020-03-08,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NUH,114,62,Singapore Citizen,male,5th Mar 2020,local,In hospital,6,NA,2020-03-04,1.2937,103.7832,1.3351,103.7063
+SAFRA Jurong,NCID,196,NA,Singapore Citizen,female,13th Mar 2020,local,Recovered,10,4,2020-03-13,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,112,62,Singapore Citizen,female,4th Mar 2020,local,Recovered,12,5,2020-03-04,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,155,47,Malaysian,female,9th Mar 2020,local,In hospital,5,NA,2020-03-09,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NCID,185,34,Singapore Citizen,male,12th Mar 2020,local,In hospital,5,NA,2020-03-12,1.3221,103.8472,1.3351,103.7063
+SAFRA Jurong,NTFGH,144,58,Singapore Citizen,female,8th Mar 2020,local,In hospital,5,NA,2020-03-07,1.290179968,103.8519897,1.3351,103.7063
+SAFRA Jurong,NUH,115,62,Singapore Citizen,female,5th Mar 2020,local,In hospital,NA,NA,2020-03-05,1.2937,103.7832,1.3351,103.7063
+Seletar Aerospace Heights,NCID,52,37,Bangladesh,male,13th Feb 2020,local,Recovered,6,15,2020-02-12,1.3221,103.8472,1.420181,103.864555
+Seletar Aerospace Heights,NCID,56,30,Bangladesh,male,13th Feb 2020,local,Recovered,1,13,2020-02-13,1.3221,103.8472,1.420181,103.864555
+Seletar Aerospace Heights,NCID,42,39,Bangladesh,male,9th Feb 2020,local,In hospital,8,NA,2020-02-08,1.3221,103.8472,1.420181,103.864555
+Seletar Aerospace Heights,NCID,47,39,Bangladesh,male,11th Feb 2020,local,Recovered,4,26,2020-02-10,1.3221,103.8472,1.420181,103.864555
+Seletar Aerospace Heights,NCID,69,26,Bangladesh,male,15th Feb 2020,local,Recovered,1,16,2020-02-15,1.3221,103.8472,1.420181,103.864555
+The Life Church Missions Singapore,NCID,138,26,Singapore Citizen,male,7th Mar 2020,local,Recovered,NA,2,2020-03-06,1.3221,103.8472,1.328,103.8907
+The Life Church Missions Singapore,CGH,31,53,Singapore Citizen,male,7th Feb 2020,local,Recovered,15,10,2020-02-06,1.3402,103.9496,1.328,103.8907
+The Life Church Missions Singapore,NCID,151,51,Singapore Citizen,male,9th Mar 2020,local,Recovered,33,0,2020-03-08,1.3221,103.8472,1.328,103.8907
+The Life Church Missions Singapore B Paya Lebar Road (146B Paya Lebar Road),NCID,90,75,Singapore Citizen,female,24th Feb 2020,local,In hospital,15,NA,2020-02-23,1.3221,103.8472,1.328,103.8907
+The Life Church Missions Singapore B Paya Lebar Road (146B Paya Lebar Road),NCID,91,58,Singapore Citizen,female,25th Feb 2020,local,Recovered,31,2,2020-02-22,1.3221,103.8472,1.328,103.8907
+The Life Church Missions Singapore B Paya Lebar Road (146B Paya Lebar Road),NCID,83,54,Singapore Citizen,male,19th Feb 2020,local,Recovered,22,2,2020-02-19,1.3221,103.8472,1.328,103.8907
+Wizlearn Technologies Pte Ltd,NCID,106,54,Japanese,male,1st Mar 2020,local,Recovered,7,10,2020-03-01,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,110,33,Singapore Citizen,male,3rd Mar 2020,local,Recovered,10,4,2020-03-02,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,95,44,Singapore Citizen,male,27th Feb 2020,local,Recovered,5,16,2020-02-27,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,103,37,Singapore Citizen,female,1st Mar 2020,local,Recovered,10,13,2020-03-01,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,104,25,Myanmar,female,1st Mar 2020,local,Recovered,7,18,2020-03-01,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NTFGH,101,61,Singapore Citizen,male,29th Feb 2020,local,Recovered,4,18,2020-02-29,1.290179968,103.8519897,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NTFGH,102,41,Filipino,female,29th Feb 2020,local,Recovered,4,14,2020-02-29,1.290179968,103.8519897,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NTFGH,93,38,Singapore Citizen,male,26th Feb 2020,local,Recovered,9,10,2020-02-26,1.290179968,103.8519897,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,99,27,Singapore Citizen,male,28th Feb 2020,local,Recovered,8,16,2020-02-28,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,100,27,Malaysian,male,28th Feb 2020,local,Recovered,2,16,2020-02-28,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,97,44,Singapore Permanent Resident,female,28th Feb 2020,local,Recovered,8,20,2020-02-27,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,98,24,Singapore Permanent Resident,male,28th Feb 2020,local,Recovered,1,6,2020-02-28,1.3221,103.8472,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NTFGH,108,34,Filipino,female,2nd Mar 2020,local,In hospital,6,NA,2020-03-02,1.290179968,103.8519897,1.290727,103.785807
+Wizlearn Technologies Pte Ltd,NCID,105,49,Singapore Citizen,male,1st Mar 2020,local,Recovered,4,18,2020-03-01,1.3221,103.8472,1.290727,103.785807
+Yong Thai Hang Cavan Road (24 Cavan Road),KKH,28,0,Singapore Citizen,male,5th Feb 2020,local,Recovered,NA,16,2020-02-05,1.3108,103.8469,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,25,40,Singapore Citizen,male,5th Feb 2020,local,Recovered,12,7,2020-02-04,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,20,48,Singapore resident,female,4th Feb 2020,local,Recovered,10,25,2020-02-04,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,24,32,Malaysian,female,4th Feb 2020,local,Recovered,5,11,2020-02-03,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,27,45,Singapore Citizen,male,5th Feb 2020,local,Recovered,5,15,2020-02-05,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),SGH,19,28,Singapore resident,female,4th Feb 2020,local,Recovered,6,18,2020-02-03,1.2796,103.8359,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),SGH,21,44,Indonesian,female,4th Feb 2020,local,Recovered,2,13,2020-02-04,1.2796,103.8359,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,40,36,Singapore Citizen,male,8th Feb 2020,local,Recovered,9,4,2020-02-08,1.3221,103.8472,1.3109,103.8617
+Yong Thai Hang Cavan Road (24 Cavan Road),NCID,34,40,Singapore Citizen,female,8th Feb 2020,local,Recovered,12,4,2020-02-07,1.3221,103.8472,1.3109,103.8617
+NA,AH,119,55,Singapore Citizen,male,6th Mar 2020,local,In hospital,8,NA,2020-03-05,1.2866,103.8013,NA,NA
+NA,NCID,184,35,Filipino,male,12th Mar 2020,local,In hospital,3,NA,2020-03-12,1.3221,103.8472,NA,NA
+NA,CGH,228,67,Singapore Citizen,male,16th Mar 2020,local,In hospital,12,NA,2020-03-15,1.3402,103.9496,NA,NA
+NA,CGH,6,56,Chinese,male,28th Jan 2020,imported,Recovered,3,23,2020-01-27,1.3402,103.9496,NA,NA
+NA,CGH,203,36,Singapore Citizen,female,14th Mar 2020,imported,In hospital,2,NA,2020-03-13,1.3402,103.9496,NA,NA
+NA,KKH,45,2,Singapore Citizen,female,10th Feb 2020,imported,Recovered,NA,4,2020-02-10,1.3108,103.8469,NA,NA
+NA,NCID,189,36,Indian,male,13th Mar 2020,imported,Recovered,1,4,2020-03-12,1.3221,103.8472,NA,NA
+NA,NCID,233,61,British,male,16th Mar 2020,imported,In hospital,1,NA,2020-03-16,1.3221,103.8472,NA,NA
+NA,KKH,76,1,Singapore Citizen,male,17th Feb 2020,imported,Recovered,NA,1,2020-02-16,1.3108,103.8469,NA,NA
+NA,NCID,46,35,Singapore Permanent Resident,male,11th Feb 2020,local,Recovered,5,14,2020-02-10,1.3221,103.8472,NA,NA
+NA,KTPH,169,40,Singapore Citizen,male,11th Mar 2020,imported,In hospital,1,NA,2020-03-10,1.4246,103.8382,NA,NA
+NA,KTPH,188,53,Singapore Citizen,male,13th Mar 2020,imported,In hospital,5,NA,2020-03-12,1.4246,103.8382,NA,NA
+NA,KTPH,44,37,Singapore Citizen,male,10th Feb 2020,local,Recovered,10,9,2020-02-09,1.4246,103.8382,NA,NA
+NA,MEN,29,41,Singapore Citizen,male,6th Feb 2020,local,Recovered,9,6,2020-02-05,1.3056,103.8355,NA,NA
+NA,NCID,26,42,Chinese,female,5th Feb 2020,imported,Recovered,8,4,2020-02-04,1.3221,103.8472,NA,NA
+NA,NCID,11,31,Chinese,female,30th Jan 2020,imported,Recovered,3,11,2020-01-29,1.3221,103.8472,NA,NA
+NA,NCID,17,47,Singapore Citizen,female,1st Feb 2020,imported,Recovered,1,10,2020-01-31,1.3221,103.8472,NA,NA
+NA,NCID,200,NA,Singapore Citizen,female,13th Mar 2020,local,In hospital,1,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,NCID,14,31,Chinese,male,31th Jan 2020,imported,Recovered,3,17,2020-01-30,1.3221,103.8472,NA,NA
+NA,NCID,38,52,Singapore Citizen,female,8th Feb 2020,local,Recovered,5,10,2020-02-08,1.3221,103.8472,NA,NA
+NA,SGH,232,65,Australian,female,16th Mar 2020,imported,In hospital,13,NA,2020-03-15,1.2796,103.8359,NA,NA
+NA,NCID,124,37,Singapore Permanent Resident,female,6th Mar 2020,imported,In hospital,1,NA,2020-03-06,1.3221,103.8472,NA,NA
+NA,NCID,165,30,Singapore Citizen,male,10th Mar 2020,imported,In hospital,1,NA,2020-03-10,1.3221,103.8472,NA,NA
+NA,NCID,7,35,Chinese,female,28th Jan 2020,imported,Recovered,4,7,2020-01-27,1.3221,103.8472,NA,NA
+NA,NCID,87,32,Singapore Citizen,male,22nd Feb 2020,imported,Recovered,NA,2,2020-02-21,1.3221,103.8472,NA,NA
+NA,NCID,5,56,Chinese,female,27rd Jan 2020,imported,Recovered,4,21,2020-01-27,1.3221,103.8472,NA,NA
+NA,NCID,41,71,Singapore Citizen,male,9th Feb 2020,local,In hospital,8,NA,2020-02-08,1.3221,103.8472,NA,NA
+NA,NCID,37,53,Singapore Citizen,male,8th Feb 2020,local,Recovered,9,23,2020-02-07,1.3221,103.8472,NA,NA
+NA,NCID,171,27,Singapore Citizen,male,11th Mar 2020,imported,Recovered,2,6,2020-03-11,1.3221,103.8472,NA,NA
+NA,NCID,12,37,Chinese,female,30th Jan 2020,imported,Recovered,4,13,2020-01-29,1.3221,103.8472,NA,NA
+NA,NCID,85,36,Chinese,male,20th Feb 2020,local,Recovered,6,16,2020-02-20,1.3221,103.8472,NA,NA
+NA,NCID,230,38,Singapore Citizen,female,16th Mar 2020,imported,In hospital,1,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,NCID,15,47,Singapore Citizen,female,31th Jan 2020,imported,Recovered,1,16,2020-01-30,1.3221,103.8472,NA,NA
+NA,NCID,136,36,Italian,male,7th Mar 2020,imported,Recovered,6,12,2020-03-06,1.3221,103.8472,NA,NA
+NA,NCID,13,73,Chinese,female,30th Jan 2020,imported,Recovered,3,9,2020-01-30,1.3221,103.8472,NA,NA
+NA,NCID,217,22,Spanish,male,15th Mar 2020,imported,In hospital,1,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NCID,59,61,Singapore Citizen,male,14th Feb 2020,local,Recovered,7,12,2020-02-13,1.3221,103.8472,NA,NA
+NA,NCID,180,71,Singapore Citizen,male,12th Mar 2020,imported,In hospital,2,NA,2020-03-12,1.3221,103.8472,NA,NA
+NA,NCID,18,31,Chinese,female,1st Feb 2020,imported,Recovered,3,25,2020-02-01,1.3221,103.8472,NA,NA
+NA,NCID,23,17,Singapore Citizen,male,4th Feb 2020,imported,Recovered,NA,18,2020-02-03,1.3221,103.8472,NA,NA
+NA,NCID,183,29,Singapore Citizen,male,12th Mar 2020,imported,In hospital,6,NA,2020-03-12,1.3221,103.8472,NA,NA
+NA,NCID,224,50,Singapore Citizen,male,15th Mar 2020,local,In hospital,2,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,NCID,65,61,Singapore Citizen,female,14th Feb 2020,local,Recovered,2,3,2020-02-14,1.3221,103.8472,NA,NA
+NA,NCID,190,53,Singapore Citizen,male,13th Mar 2020,local,In hospital,3,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,NCID,225,63,Singapore Citizen,male,15th Mar 2020,imported,In hospital,6,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,NCID,241,28,British,male,16th Mar 2020,imported,In hospital,5,NA,2020-03-16,1.3221,103.8472,NA,NA
+NA,NCID,192,32,American,male,13th Mar 2020,imported,In hospital,0,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,SGH,3,37,Chinese,male,24rd Jan 2020,imported,Recovered,1,27,2020-01-24,1.2796,103.8359,NA,NA
+NA,NCID,191,24,Malaysian,female,13th Mar 2020,imported,In hospital,4,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,NCID,32,42,Singapore Citizen,female,7th Feb 2020,local,Recovered,5,12,2020-02-06,1.3221,103.8472,NA,NA
+NA,NCID,113,42,French,male,5th Mar 2020,imported,In hospital,2,NA,2020-03-04,1.3221,103.8472,NA,NA
+NA,NCID,8,56,Chinese,female,29th Jan 2020,imported,Recovered,5,20,2020-01-28,1.3221,103.8472,NA,NA
+NA,NCID,75,71,Singapore Citizen,female,16th Feb 2020,local,Recovered,NA,13,2020-02-16,1.3221,103.8472,NA,NA
+NA,NCID,242,64,Singapore Citizen,female,16th Mar 2020,local,In hospital,2,NA,2020-03-16,1.3221,103.8472,NA,NA
+NA,NCID,77,35,Singapore Citizen,male,17th Feb 2020,local,Recovered,7,8,2020-02-17,1.3221,103.8472,NA,NA
+NA,NCID,198,61,Singapore Citizen,female,13th Mar 2020,local,In hospital,6,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,NCID,79,35,Malaysian,female,18th Feb 2020,local,Recovered,5,10,2020-02-17,1.3221,103.8472,NA,NA
+NA,NCID,173,31,Singapore Citizen,male,11th Mar 2020,imported,In hospital,2,NA,2020-03-11,1.3221,103.8472,NA,NA
+NA,NCID,147,64,Indonesian,male,8th Mar 2020,imported,In hospital,5,NA,2020-03-08,1.3221,103.8472,NA,NA
+NA,NCID,55,30,Singapore Citizen,male,13th Feb 2020,local,Recovered,14,6,2020-02-13,1.3221,103.8472,NA,NA
+NA,NCID,176,37,British,female,11th Mar 2020,imported,In hospital,4,NA,2020-03-11,1.3221,103.8472,NA,NA
+NA,SGH,109,70,Singapore Citizen,male,3rd Mar 2020,local,In hospital,7,NA,2020-03-02,1.2796,103.8359,NA,NA
+NA,NCID,205,30,Filipino,female,14th Mar 2020,imported,In hospital,NA,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NCID,126,77,Singapore Citizen,male,6th Mar 2020,local,In hospital,1,NA,2020-03-06,1.3221,103.8472,NA,NA
+NA,NCID,220,53,Singapore Permanent Resident,male,15th Mar 2020,imported,In hospital,3,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,SGH,235,31,Singapore Citizen,female,16th Mar 2020,local,In hospital,5,NA,2020-03-16,1.2796,103.8359,NA,NA
+NA,NCID,9,56,Chinese,male,29th Jan 2020,imported,Recovered,6,25,2020-01-29,1.3221,103.8472,NA,NA
+NA,NCID,10,56,Chinese,male,29th Jan 2020,imported,Recovered,9,10,2020-01-29,1.3221,103.8472,NA,NA
+NA,NCID,211,35,Filipino,female,14th Mar 2020,local,In hospital,NA,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NCID,172,42,Philippines,female,11th Mar 2020,local,In hospital,6,NA,2020-03-11,1.3221,103.8472,NA,NA
+NA,NCID,199,NA,Singapore Citizen,male,13th Mar 2020,imported,In hospital,10,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,NUH,111,43,Singapore Permanent Resident,male,4th Mar 2020,local,Recovered,9,9,2020-03-03,1.2937,103.7832,NA,NA
+NA,NUH,218,55,Singapore Citizen,female,15th Mar 2020,local,In hospital,12,NA,2020-03-14,1.2937,103.7832,NA,NA
+NA,NUH,240,27,Singapore Permanent Resident,male,16th Mar 2020,imported,In hospital,2,NA,2020-03-16,1.2937,103.7832,NA,NA
+NA,NCID,194,24,Chinese,female,13th Mar 2020,imported,In hospital,5,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,SKH,219,30,Singapore Citizen,male,15th Mar 2020,local,In hospital,2,NA,2020-03-15,1.3955,103.8934,NA,NA
+NA,NCID,223,60,Singapore Citizen,male,15th Mar 2020,imported,In hospital,2,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,NCID,193,26,Malaysian,male,13th Mar 2020,imported,In hospital,1,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,NCID,221,28,Filipino,female,15th Mar 2020,local,In hospital,4,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,NCID,22,41,Singapore Citizen,male,4th Feb 2020,imported,Recovered,NA,6,2020-02-03,1.3221,103.8472,NA,NA
+NA,NCID,226,49,Dutch,male,15th Mar 2020,imported,In hospital,3,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,NCID,197,NA,Singapore Citizen,male,13th Mar 2020,imported,In hospital,9,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,NCID,229,26,Singapore Permanent Resident,female,16th Mar 2020,imported,In hospital,0,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,NCID,212,64,Indonesian,male,14th Mar 2020,imported,In hospital,5,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NTFGH,167,35,Filipino,female,10th Mar 2020,imported,In hospital,2,NA,2020-03-10,1.290179968,103.8519897,NA,NA
+NA,NCID,187,48,Singapore Citizen,male,12th Mar 2020,imported,In hospital,8,NA,2020-03-12,1.3221,103.8472,NA,NA
+NA,SKH,43,54,Singapore Citizen,male,9th Feb 2020,local,Recovered,9,27,2020-02-08,1.3955,103.8934,NA,NA
+NA,NCID,216,30,Singapore Citizen,male,15th Mar 2020,imported,In hospital,5,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NCID,243,36,Singapore Citizen,male,16th Mar 2020,imported,In hospital,5,NA,2020-03-16,1.3221,103.8472,NA,NA
+NA,NCID,72,40,Chinese,male,15th Feb 2020,local,Recovered,5,12,2020-02-15,1.3221,103.8472,NA,NA
+NA,NCID,214,29,Singapore Citizen,male,15th Mar 2020,local,In hospital,9,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NCID,207,40,Singapore Citizen,female,14th Mar 2020,imported,In hospital,NA,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NCID,175,44,Singapore Citizen,male,11th Mar 2020,imported,In hospital,1,NA,2020-03-11,1.3221,103.8472,NA,NA
+NA,SGH,231,78,Australian,male,14th Mar 2020,imported,In hospital,10,NA,2020-03-14,1.2796,103.8359,NA,NA
+NA,SGH,2,53,Chinese,female,24rd Jan 2020,imported,Recovered,3,14,2020-01-24,1.2796,103.8359,NA,NA
+NA,NCID,238,83,Belgium,female,16th Mar 2020,imported,In hospital,2,NA,2020-03-16,1.3221,103.8472,NA,NA
+NA,NUH,143,42,Singapore Permanent Resident,male,8th Mar 2020,local,In hospital,3,NA,2020-03-07,1.2937,103.7832,NA,NA
+NA,NCID,177,26,Singapore Citizen,male,11th Mar 2020,imported,In hospital,2,NA,2020-03-11,1.3221,103.8472,NA,NA
+NA,SGH,123,47,Singapore Citizen,male,6th Mar 2020,imported,Recovered,8,11,2020-03-05,1.2796,103.8359,NA,NA
+NA,NTFGH,82,57,Singapore Citizen,female,19th Feb 2020,local,In hospital,10,NA,2020-02-18,1.290179968,103.8519897,NA,NA
+NA,SKH,168,47,Singapore Citizen,male,11th Mar 2020,local,In hospital,9,NA,2020-03-10,1.3955,103.8934,NA,NA
+NA,SKH,33,39,Singapore Citizen,female,7th Feb 2020,local,Recovered,8,12,2020-02-06,1.3955,103.8934,NA,NA
+NA,SGH,215,65,Singapore Citizen,male,15th Mar 2020,imported,In hospital,1,NA,2020-03-14,1.2796,103.8359,NA,NA
+NA,NCID,206,33,Zealand,female,14th Mar 2020,imported,In hospital,NA,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NTFGH,178,37,Filipino,male,11th Mar 2020,imported,In hospital,3,NA,2020-03-11,1.290179968,103.8519897,NA,NA
+NA,NCID,154,52,British,male,9th Mar 2020,imported,In hospital,1,NA,2020-03-09,1.3221,103.8472,NA,NA
+NA,NCID,89,41,Singapore Permanent Resident,male,22nd Feb 2020,local,Recovered,19,6,2020-02-22,1.3221,103.8472,NA,NA
+NA,NCID,210,56,German,male,14th Mar 2020,imported,In hospital,1,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,SGH,234,86,Singapore Citizen,male,16th Mar 2020,local,In hospital,17,NA,2020-03-16,1.2796,103.8359,NA,NA
+NA,SGH,135,40,Singapore Citizen,male,7th Mar 2020,local,Recovered,10,7,2020-03-06,1.2796,103.8359,NA,NA
+NA,NCID,239,28,British,male,16th Mar 2020,imported,In hospital,2,NA,2020-03-16,1.3221,103.8472,NA,NA
+NA,NTFGH,201,52,Singapore Citizen,female,14th Mar 2020,local,Recovered,8,5,2020-03-13,1.290179968,103.8519897,NA,NA
+NA,SKH,4,36,Chinese,male,26rd Jan 2020,imported,Recovered,3,17,2020-01-25,1.3955,103.8934,NA,NA
+NA,SGH,1,66,Chinese,male,23rd Jan 2020,imported,Recovered,3,26,2020-01-23,1.2796,103.8359,NA,NA
+NA,SKH,213,48,Singapore Citizen,male,15th Mar 2020,imported,In hospital,6,NA,2020-03-14,1.3955,103.8934,NA,NA
+NA,SGH,153,65,Singapore Citizen,female,9th Mar 2020,imported,In hospital,5,NA,2020-03-08,1.2796,103.8359,NA,NA
+NA,SKH,202,44,Singapore Citizen,male,14th Mar 2020,imported,In hospital,10,NA,2020-03-13,1.3955,103.8934,NA,NA
+NA,NUH,227,53,Singapore Citizen,male,16th Mar 2020,imported,In hospital,4,NA,2020-03-15,1.2937,103.7832,NA,NA
+NA,NCID,237,36,Indonesian,female,16th Mar 2020,local,In hospital,4,NA,2020-03-16,1.3221,103.8472,NA,NA
+NA,NCID,222,41,French,male,15th Mar 2020,imported,In hospital,2,NA,2020-03-15,1.3221,103.8472,NA,NA
+NA,NUH,64,50,Singapore Citizen,male,14th Feb 2020,local,Recovered,11,9,2020-02-14,1.2937,103.7832,NA,NA
+NA,NCID,236,30,Singapore Citizen,female,16th Mar 2020,local,In hospital,6,NA,2020-03-16,1.3221,103.8472,NA,NA
+NA,NA,50,62,Singapore Citizen,male,12th Feb 2020,local,Recovered,5,9,2020-02-12,NA,NA,NA,NA
+NA,NA,182,76,Indonesian,female,12th Mar 2020,imported,In hospital,3,NA,2020-03-12,NA,NA,NA,NA
+NA,SGH,16,38,Chinese,male,31th Jan 2020,imported,Recovered,8,20,2020-01-30,1.2796,103.8359,NA,NA
+NA,NCID,195,47,Singapore Citizen,male,13th Mar 2020,imported,In hospital,7,NA,2020-03-13,1.3221,103.8472,NA,NA
+NA,NTFGH,141,69,Singapore Citizen,male,8th Mar 2020,local,In hospital,7,NA,2020-03-07,1.290179968,103.8519897,NA,NA
+NA,SGH,152,65,Indonesian,male,9th Mar 2020,imported,In hospital,9,NA,2020-03-08,1.2796,103.8359,NA,NA
+NA,SGH,92,47,Singapore Citizen,male,26th Feb 2020,local,Recovered,9,14,2020-02-26,1.2796,103.8359,NA,NA
+NA,NUH,132,37,Singapore Permanent Resident,female,7th Mar 2020,imported,In hospital,7,NA,2020-03-06,1.2937,103.7832,NA,NA
+NA,SGH,35,64,Singapore Citizen,male,8th Feb 2020,local,In hospital,9,NA,2020-02-07,1.2796,103.8359,NA,NA
+NA,SGH,204,32,American,male,14th Mar 2020,imported,In hospital,2,NA,2020-03-13,1.2796,103.8359,NA,NA
+NA,SGH,209,32,Singapore Citizen,female,14th Mar 2020,imported,In hospital,NA,NA,2020-03-14,1.2796,103.8359,NA,NA
+NA,NCID,208,26,Singapore Citizen,female,14th Mar 2020,local,In hospital,NA,NA,2020-03-14,1.3221,103.8472,NA,NA
+NA,NA,181,83,Indonesian,male,12th Mar 2020,imported,In hospital,4,NA,2020-03-12,NA,NA,NA,NA
+NA,SGH,170,56,Indonesian,female,11th Mar 2020,imported,In hospital,4,NA,2020-03-10,1.2796,103.8359,NA,NA
+NA,NA,86,24,Singapore Citizen,male,21st Feb 2020,local,Recovered,7,15,2020-02-20,NA,NA,NA,NA
