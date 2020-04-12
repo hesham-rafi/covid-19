@@ -4,6 +4,7 @@ Tab01_1 <- "Dashboard"
 Tab01_2 <- "Trends"
 Tab01_3 <- "Wordcloud"
 tab02 <- "Singapore"
+tab03 <- "Indonesia"
 tabWelcome <-  "COVID-19 Dashboard"
 
 N <- 1

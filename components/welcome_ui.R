@@ -8,7 +8,7 @@ fluidPage(
       br(),
       p("We do not intend to make any predictions using the data, as this is best left to epidemiologists, Public Health, and virology experts. This is simply an effort to present some useful visualizations based on various data sources in a single dashboard. We also acknowledge all the other researchers around the world who have created similar dashboards, and hence the name 'Yet Another COVID Dashboard'."),
       br(),
-      p("This interactive dashboard shows the spread of the COVID-19 virus around the world and in particular in Singapore since late January. Singapore had its 1st COVID-19 case on 23rd Jan 2020. Singapore is one of the countries which managed to slow down the spread among people. WHO praised Singapore for the steps taken in containing the outbreak of the virus."),
+      p("This interactive dashboard shows the spread of the COVID-19 virus around the world, Indonesia and Singapore since late January."),
       br(),
       p("Further, Using this dashboard we aim to provide a visual representation for the following questions:"),
       tags$ul(
@@ -38,22 +38,34 @@ fluidPage(
         ),
         
         column(
-          3,
+          2,
           div(style = "text-align: center;",
               tags$button(id = "cmd_global", style = "color: white; width: 100%;", type = "button", class = "btn action-button btn-primary btn-lg", "Global")
           ),
         ),
         
         column(
-          2,
+          1,
         ),
         
         column(
-          3,
+          2,
           div(style = "text-align: center;",
               tags$button(id = "cmd_sing", style = "color: white; width: 100%;", type = "button", class = "btn action-button btn-primary btn-lg", "Singapore")
           ),
         ),
+        
+        column(
+          1,
+        ),
+        
+        column(
+          2,
+          div(style = "text-align: center;",
+              tags$button(id = "cmd_indo", style = "color: white; width: 100%;", type = "button", class = "btn action-button btn-primary btn-lg", "Indonesia")
+          ),
+        ),
+        
       ),
       br(),
       h6(strDisclaimer),

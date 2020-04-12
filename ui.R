@@ -47,7 +47,7 @@ shinyUI(
         ),
       ),
       
-      # Runing the model
+      # Singapore Information
       tabPanel(
         title <- tab02,
         tabsetPanel(type = "tabs",
@@ -60,6 +60,12 @@ shinyUI(
         ),
       ),
       
+      # Indonesia Information
+      tabPanel(
+        title <- tab03,
+        source('components/tab_0301_ui.R', local=TRUE)$value
+      ),
+
       collapsible = TRUE,
       windowTitle = prjNameShort
     )   # END of navbarPage

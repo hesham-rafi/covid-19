@@ -74,6 +74,15 @@ clinic_lat_lon <- singaporePhpcLatLong()
 g_list_confirmed$date <- as.Date(g_list_confirmed$date)
 
 
+####---- Indonesia environment variables ----####
+g_total_id_confirmed <- totalIDConfirmed()
+g_total_id_recovered <- totalIDRecovered()
+g_total_id_deaths <- totalIDDeaths()
+g_total_id_current <- totalIDCurrent()
+g_id_case_by_province <- read_csv("data/indo_provinces_2020-04-12.csv")
+g_id_overall_case <- read_csv("data/indo_overall_2020-04-12.csv")
+
+
 ####---- Reading NASDAQ Index ----####
 getSymbols("NQ=F", src = "yahoo", from = as.Date("2020-01-01"), to = Sys.Date())
 getSymbols("^GSPC", src = "yahoo", from = as.Date("2020-01-01"), to = Sys.Date())

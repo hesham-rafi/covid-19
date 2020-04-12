@@ -13,10 +13,12 @@ shinyServer(function(input, output, session) {
 
   hideTab(inputId = "tags", target = tab01)
   hideTab(inputId = "tags", target = tab02)
+  hideTab(inputId = "tags", target = tab03)
   
   source("components/welcome_server.R", local=TRUE)
   source("components/tab_01_server.R", local=TRUE)
   source("components/tab_02_server.R", local=TRUE)
+  source("components/tab_03_server.R", local=TRUE)
   
 
 }) # end of shinyServer

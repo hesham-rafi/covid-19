@@ -176,3 +176,39 @@ totalSGCurrent <- function() {
   db <- dbFetch(res)
   return(db)
 }
+
+
+####---- Total ID Confirmed Cases Count ----####
+totalIDConfirmed <- function() {
+  sql = "SELECT Confirmed FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  res <- dbSendQuery(con, sql)
+  db <- dbFetch(res)
+  return(db)
+}
+
+
+####---- Total ID Total Recovered Cases Count ----####
+totalIDRecovered <- function() {
+  sql = "SELECT Recovered FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  res <- dbSendQuery(con, sql)
+  db <- dbFetch(res)
+  return(db)
+}
+
+
+####---- Total ID Total Deaths Cases Count ----####
+totalIDDeaths <- function() {
+  sql = "SELECT Deaths FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  res <- dbSendQuery(con, sql)
+  db <- dbFetch(res)
+  return(db)
+}
+
+
+####---- Total ID Current New Cases Count ----####
+totalIDCurrent <- function() {
+  sql = "SELECT NewConfirmed FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  res <- dbSendQuery(con, sql)
+  db <- dbFetch(res)
+  return(db)
+}
