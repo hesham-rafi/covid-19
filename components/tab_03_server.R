@@ -29,9 +29,9 @@ output$id_total_current <- renderText({
 ####---- Display province wise information Table ----####
 output$id_case_by_province <- renderDataTable({
   
-  id_case_by_province <- g_id_case_by_province %>%
-    filter(Case_Date == (Sys.Date()-1)) %>%
-    select(Provinces, Cases, Recovered, Death)
+  id_case_by_province <- g_id_indonesia_provinces %>%
+    # filter(last_updated == (Sys.Date()-1)) %>%
+    select(provinces, cases, recovered, death)
   
   DT::datatable(id_case_by_province, rownames = NULL, options = list(scrollX = TRUE))
 })
@@ -40,13 +40,13 @@ output$id_case_by_province <- renderDataTable({
 ####---- Display map for infacted ----####
 output$id_case_on_map <- renderPlotly({
   
-  fig <- g_id_case_by_province %>%
-    filter(Case_Date == Sys.Date()-1) %>%
+  fig <- g_id_indonesia_provinces %>%
+    # filter(last_updated == Sys.Date()-1) %>%
     plot_mapbox(mode = 'scattermapbox') %>%
-    add_markers(y = ~geometry.y, x = ~geometry.x, size= ~ (`Cases`),
+    add_markers(y = ~lat, x = ~long, size= ~ (`cases`),
                 color=I("red"),
                 marker=list(sizeref=0.1, sizemode="area"),
-                text=~paste("Location: ",Provinces,"<br>","Total Confirmed Cases: ", Cases, sep = "" ),
+                text=~paste("Location: ",provinces,"<br>","Total Confirmed Cases: ", cases, sep = "" ),
                 hoverinfo="text",alpha=0.7) %>%
     layout(height = 560,
       font = list(color='white'),
@@ -67,7 +67,10 @@ output$id_case_on_map <- renderPlotly({
 ####---- Total Cases Plot ----####
 output$id_total_cases_plot <- renderPlotly({
   
-  fig <- plot_ly(g_id_overall_case, x = ~date, y = ~attributes.Jumlah_Kasus_Kumulatif, type = 'scatter', mode = 'lines', name = 'New Cases') %>%
+  id_indonesia_master <- g_id_indonesia_master %>%
+    mutate(last_updated=as.Date(last_updated))
+  
+  fig <- plot_ly(id_indonesia_master, x = ~last_updated, y = ~total_cases, type = 'scatter', mode = 'lines', name = 'New Cases') %>%
     layout(xaxis = list(title="", tickangle = -45, color = '#ffffff'),
            yaxis = list(title="", color = '#ffffff'), 
            plot_bgcolor='#303030', paper_bgcolor='#303030')
@@ -79,7 +82,10 @@ output$id_total_cases_plot <- renderPlotly({
 ####---- Total New Cases Plot ----####
 output$id_total_new_cases_plot <- renderPlotly({
   
-  fig <- plot_ly(g_id_overall_case, x = ~date, y = ~attributes.Jumlah_Kasus_Baru_per_Hari, type = 'scatter', mode = 'lines', name = 'New Cases', line=list(color='#6EB005')) %>%
+  id_indonesia_master <- g_id_indonesia_master %>%
+    mutate(last_updated=as.Date(last_updated))
+
+    fig <- plot_ly(id_indonesia_master, x = ~last_updated, y = ~new_cases, type = 'scatter', mode = 'lines', name = 'New Cases', line=list(color='#6EB005')) %>%
     layout(xaxis = list(title="", tickangle = -45, color = '#ffffff'),
            yaxis = list(title="", color = '#ffffff'), 
            plot_bgcolor='#303030', paper_bgcolor='#303030')
@@ -90,7 +96,10 @@ output$id_total_new_cases_plot <- renderPlotly({
 ####---- Total deaths Cases Plot ----####
 output$id_total_deaths_plot <- renderPlotly({
   
-  fig <- plot_ly(g_id_overall_case, x = ~date, y = ~attributes.Jumlah_Pasien_Meninggal, type = 'scatter', mode = 'lines', name = 'New Cases', line=list(color='#EF5D43')) %>%
+  id_indonesia_master <- g_id_indonesia_master %>%
+    mutate(last_updated=as.Date(last_updated))
+
+    fig <- plot_ly(id_indonesia_master, x = ~last_updated, y = ~total_deaths, type = 'scatter', mode = 'lines', name = 'New Cases', line=list(color='#EF5D43')) %>%
     layout(xaxis = list(title="", tickangle = -45, color = '#ffffff'),
            yaxis = list(title="", color = '#ffffff'), 
            plot_bgcolor='#303030', paper_bgcolor='#303030')

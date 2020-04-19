@@ -158,7 +158,7 @@ get_map <- reactive({
     return(NULL)
     
 
-  fig <- singapore_master %>%
+  fig <- g_sgCluster %>%
     dplyr::select(case_id,infected_place,ip_lat,ip_lon) %>%
     dplyr::group_by(infected_place,ip_lat,ip_lon) %>%
     dplyr::summarise(total_cases= dplyr::n_distinct(as.character(case_id))) %>%

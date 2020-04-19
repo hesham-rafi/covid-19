@@ -33,6 +33,6 @@ table <- url %>%
   mutate(Last_update = Sys.time())
 
 
-save_as_csv(table, "daily_data/2020-04-12.csv")
+save_as_csv(table, "daily_data/2020-04-19.csv")
 
 

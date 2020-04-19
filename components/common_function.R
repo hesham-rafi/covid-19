@@ -40,8 +40,12 @@ allCountry <- function() {
 
 ####---- Country wise information Table ----####
 caseByCountry <- function() {
-  sql = "SELECT Country, Confirmed, Deaths, Recovered from case_by_country where LastUpdate = date('now','-1 day') order by Confirmed desc"
-  res <- dbSendQuery(con, sql)
+  # sql = "SELECT Country, Confirmed, Deaths, Recovered from case_by_country where LastUpdate = date('now','-1 day') order by Confirmed desc"
+  sql = "SELECT Country, Confirmed, Deaths, Recovered FROM ( 
+          SELECT CountryCode, Country, Confirmed, Deaths, Recovered, LastUpdate, ROW_NUMBER() OVER (PARTITION BY CountryCode ORDER BY LastUpdate DESC ) RowNum FROM case_by_country 
+          ) WHERE RowNum = 1 ORDER BY Confirmed desc;"
+
+    res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
 }
@@ -49,7 +53,11 @@ caseByCountry <- function() {
 
 ####---- Total Confirmed Cases Count ----####
 totalConfirmed <- function() {
-  sql = "SELECT sum(Confirmed) FROM CASE_BY_COUNTRY where LastUpdate = date('now','-1 day')"
+  # sql = "SELECT sum(Confirmed) FROM CASE_BY_COUNTRY where LastUpdate = date('now','-1 day')"
+  sql = "SELECT sum(Confirmed) FROM ( 
+          SELECT CountryCode, Confirmed, LastUpdate, ROW_NUMBER() OVER (PARTITION BY CountryCode ORDER BY LastUpdate DESC ) RowNum FROM case_by_country 
+          ) WHERE RowNum = 1;"
+  
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -58,7 +66,11 @@ totalConfirmed <- function() {
 
 ####---- Total Total Recovered Cases Count ----####
 totalRecovered <- function() {
-  sql = "SELECT sum(Recovered) FROM CASE_BY_COUNTRY where LastUpdate = date('now','-1 day')"
+  # sql = "SELECT sum(Recovered) FROM CASE_BY_COUNTRY where LastUpdate = date('now','-1 day')"
+  sql = "SELECT sum(Recovered) FROM ( 
+          SELECT CountryCode, Recovered, LastUpdate, ROW_NUMBER() OVER (PARTITION BY CountryCode ORDER BY LastUpdate DESC ) RowNum FROM case_by_country 
+          ) WHERE RowNum = 1;"
+  
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -67,7 +79,11 @@ totalRecovered <- function() {
 
 ####---- Total Total Deaths Cases Count ----####
 totalDeaths <- function() {
-  sql = "SELECT sum(Deaths) FROM CASE_BY_COUNTRY where LastUpdate = date('now','-1 day')"
+  # sql = "SELECT sum(Deaths) FROM CASE_BY_COUNTRY where LastUpdate = date('now','-1 day')"
+  sql = "SELECT sum(Deaths) FROM ( 
+          SELECT CountryCode, Deaths, LastUpdate, ROW_NUMBER() OVER (PARTITION BY CountryCode ORDER BY LastUpdate DESC ) RowNum FROM case_by_country 
+          ) WHERE RowNum = 1;"
+  
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -87,6 +103,11 @@ totalCountries <- function() {
 caseOnMap <- function() {
   sql = "SELECT C.Country, C.Confirmed, C.Deaths, C.Recovered, L.Latitude, L.Longitude  from case_by_country C INNER JOIN country_lat_lon L 
           ON C.CountryCode = L.CountryCode where C.LastUpdate = date('now','-1 day');"
+  
+  sql = "SELECT C.Country, C.Confirmed, C.Deaths, C.Recovered, L.Latitude, L.Longitude  from (SELECT * FROM ( 
+          SELECT *, ROW_NUMBER() OVER (PARTITION BY CountryCode ORDER BY LastUpdate DESC ) RowNum FROM case_by_country ) WHERE RowNum = 1) C 
+          INNER JOIN country_lat_lon L ON C.CountryCode = L.CountryCode;
+  "
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -103,12 +124,12 @@ listConfirmed <- function() {
 
 
 ####---- Singapore Cases Table ----####
-sgCases <- function() {
-  sql = "select * from singapore_case;"
-  res <- dbSendQuery(con, sql)
-  db <- dbFetch(res)
-  return(db)
-}
+# sgCases <- function() {
+#   sql = "select * from singapore_case;"
+#   res <- dbSendQuery(con, sql)
+#   db <- dbFetch(res)
+#   return(db)
+# }
 
 
 ####---- Singapore MASTER Table ----####
@@ -119,6 +140,14 @@ sgMaster <- function() {
   return(db)
 }
 
+
+####---- Singapore Cluster Table ----####
+sgCluster <- function() {
+  sql = "select * from Singapore_Cluster;"
+  res <- dbSendQuery(con, sql)
+  db <- dbFetch(res)
+  return(db)
+}
 
 ####---- Singapore Infected Cases Lat Long ----####
 sgInfectedLatLong <- function() {
@@ -140,8 +169,9 @@ sgHospitalLatLong <- function() {
 
 ####---- Total SG Confirmed Cases Count ----####
 totalSGConfirmed <- function() {
-  sql = "SELECT count(distinct `Case`) FROM singapore_case;"
-  sql = "SELECT Confirmed FROM case_by_country where CountryCode='SG' and LastUpdate=date('now', '-1 days');"
+  # sql = "SELECT Confirmed FROM case_by_country where CountryCode='SG' and LastUpdate=date('now', '-1 days');"
+  sql = "SELECT Confirmed FROM case_by_country where CountryCode='SG' and LastUpdate in (select max(LastUpdate) from case_by_country where CountryCode='SG');"
+  
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -150,8 +180,10 @@ totalSGConfirmed <- function() {
 
 ####---- Total SG Total Recovered Cases Count ----####
 totalSGRecovered <- function() {
-  sql = "SELECT count(distinct `Case`) FROM singapore_case where Status=='Recovered';"
-  sql = "SELECT Recovered FROM case_by_country where CountryCode='SG' and LastUpdate=date('now', '-1 days');"
+  # sql = "SELECT count(distinct `Case`) FROM singapore_case where Status=='Recovered';"
+  # sql = "SELECT Recovered FROM case_by_country where CountryCode='SG' and LastUpdate=date('now', '-1 days');"
+  sql = "SELECT Recovered FROM case_by_country where CountryCode='SG' and LastUpdate in (select max(LastUpdate) from case_by_country where CountryCode='SG');"
+
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -160,8 +192,9 @@ totalSGRecovered <- function() {
 
 ####---- Total SG Total Deaths Cases Count ----####
 totalSGDeaths <- function() {
-  sql = "SELECT count(distinct `Case`) FROM singapore_case where Status=='Deaths';"
-  sql = "SELECT Deaths FROM case_by_country where CountryCode='SG' and LastUpdate=date('now', '-1 days');"
+  # sql = "SELECT Deaths FROM case_by_country where CountryCode='SG' and LastUpdate=date('now', '-1 days');"
+  sql = "SELECT Deaths FROM case_by_country where CountryCode='SG' and LastUpdate in (select max(LastUpdate) from case_by_country where CountryCode='SG');"
+  
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -170,8 +203,9 @@ totalSGDeaths <- function() {
 
 ####---- Total SG Current New Cases Count ----####
 totalSGCurrent <- function() {
-  sql = "SELECT count(distinct `Case`) FROM singapore_case where ConfirmDate==date('now', '-1 days');"
-  sql = "SELECT NewConfirmed FROM case_by_country where CountryCode='SG' and LastUpdate=date('now', '-1 days');"
+  # sql = "SELECT NewConfirmed FROM case_by_country where CountryCode='SG' and LastUpdate=date('now', '-1 days');"
+  sql = "SELECT NewConfirmed FROM case_by_country where CountryCode='SG' and LastUpdate in (select max(LastUpdate) from case_by_country where CountryCode='SG');"
+  
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -180,7 +214,9 @@ totalSGCurrent <- function() {
 
 ####---- Total ID Confirmed Cases Count ----####
 totalIDConfirmed <- function() {
-  sql = "SELECT Confirmed FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  # sql = "SELECT Confirmed FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  sql = "SELECT Confirmed FROM case_by_country where CountryCode='ID' and LastUpdate in (select max(LastUpdate) from case_by_country where CountryCode='ID');"
+
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -189,7 +225,9 @@ totalIDConfirmed <- function() {
 
 ####---- Total ID Total Recovered Cases Count ----####
 totalIDRecovered <- function() {
-  sql = "SELECT Recovered FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  # sql = "SELECT Recovered FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  sql = "SELECT Recovered FROM case_by_country where CountryCode='ID' and LastUpdate in (select max(LastUpdate) from case_by_country where CountryCode='ID');"
+
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -198,7 +236,9 @@ totalIDRecovered <- function() {
 
 ####---- Total ID Total Deaths Cases Count ----####
 totalIDDeaths <- function() {
-  sql = "SELECT Deaths FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  # sql = "SELECT Deaths FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  sql = "SELECT Deaths FROM case_by_country where CountryCode='ID' and LastUpdate in (select max(LastUpdate) from case_by_country where CountryCode='ID');"
+
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
@@ -207,8 +247,31 @@ totalIDDeaths <- function() {
 
 ####---- Total ID Current New Cases Count ----####
 totalIDCurrent <- function() {
-  sql = "SELECT NewConfirmed FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  # sql = "SELECT NewConfirmed FROM case_by_country where CountryCode='ID' and LastUpdate=date('now', '-1 days');"
+  sql = "SELECT NewConfirmed FROM case_by_country where CountryCode='ID' and LastUpdate in (select max(LastUpdate) from case_by_country where CountryCode='ID');"
+
   res <- dbSendQuery(con, sql)
   db <- dbFetch(res)
   return(db)
 }
+
+
+####---- Read indonesia_master Table ----####
+indonesiaMaster <- function() {
+  sql = "SELECT * from indonesia_master"
+  res <- dbSendQuery(con, sql)
+  db <- dbFetch(res)
+  return(db)
+}
+
+
+####---- Read indonesia_provinces Table ----####
+indonesiaProvinces <- function() {
+  # sql = "SELECT * from indonesia_provinces"
+  sql = "SELECT * FROM ( SELECT *, ROW_NUMBER() OVER (PARTITION BY provinces ORDER BY last_updated DESC) RowNum FROM indonesia_provinces) WHERE RowNum = 1 ORDER By cases DESC;"
+  
+  res <- dbSendQuery(con, sql)
+  db <- dbFetch(res)
+  return(db)
+}
+

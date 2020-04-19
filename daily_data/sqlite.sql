@@ -109,6 +109,7 @@ SELECT * FROM singapore_ip_lat_long;
 
 SELECT * FROM case_by_country;
 
+SELECT * FROM country_lat_lon;
 
 create table eu_country 
 (
@@ -119,6 +120,7 @@ create table eu_country
 
 SELECT * From eu_country;
 
+delete from singapore_phpc_lat_long;
 
 create table singapore_phpc_lat_long 
 (
@@ -126,8 +128,8 @@ create table singapore_phpc_lat_long
     clinic_address  VARCHAR (100),
     clinic_phone    VARCHAR (10),
     pincode         INTEGER,
-    ip_lat	INTEGER,
-    ip_lon	INTEGER
+    lat	        INTEGER,
+    lon	        INTEGER
 );
 
 SELECT * FROM singapore_phpc_lat_long;
@@ -136,6 +138,44 @@ select LastUpdate, sum(case when CountryCode = 'CN' then Confirmed else 0 end) a
 sum(case when CountryCode = 'US' then Confirmed else 0 end) as us_count,
 sum(case when CountryCode <> 'CN' or CountryCode <>'UN' then Confirmed else 0 end) as other_count
 from case_by_country
-group by LastUpdate
+group by LastUpdate;
 
+
+select * from case_by_country;
+
+SELECT * FROM singapore_hp_lat_long;
+
+SELECT * FROM singapore_ip_lat_long;
+
+create table indonesia_master
+(
+    last_updated	Date,
+    total_cases	INTEGER,
+    new_cases	INTEGER,
+    total_cases_in_icu        INTEGER,
+    percentage_in_icu         INTEGER,
+    total_recovered	          INTEGER,
+    percentage_recovered	INTEGER,
+    total_deaths	          INTEGER,
+    percentage_death	INTEGER,
+    recovered_cases	          INTEGER,
+    new_death	          INTEGER,
+    new_cases_in_icu          INTEGER
+);
+
+select * from indonesia_master;
+
+
+create table indonesia_provinces
+(
+    last_updated	Date,
+    provinces	VARCHAR (100),
+    cases	          INTEGER,
+    recovered	INTEGER,
+    death	          INTEGER,
+    lat	          INTEGER,
+    long            INTEGER
+);
+
+select * from indonesia_provinces;
 

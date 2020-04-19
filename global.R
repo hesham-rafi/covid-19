@@ -55,6 +55,7 @@ source("components/global_views.R")
 g_euCountry <- euCountry()
 g_allCountry <- allCountry()
 g_sg_ip_lat_lon <- singaporeIpLatLong()
+clinic_lat_lon <- singaporePhpcLatLong() 
 
 g_case_by_country <- caseByCountry()
 g_total_countries <- totalCountries()
@@ -69,7 +70,6 @@ g_total_sg_recovered <- totalSGRecovered()
 g_total_sg_deaths <- totalSGDeaths()
 g_total_sg_current <- totalSGCurrent()
 
-clinic_lat_lon <- singaporePhpcLatLong() 
 
 g_list_confirmed$date <- as.Date(g_list_confirmed$date)
 
@@ -79,8 +79,8 @@ g_total_id_confirmed <- totalIDConfirmed()
 g_total_id_recovered <- totalIDRecovered()
 g_total_id_deaths <- totalIDDeaths()
 g_total_id_current <- totalIDCurrent()
-g_id_case_by_province <- read_csv("data/indo_provinces_2020-04-12.csv")
-g_id_overall_case <- read_csv("data/indo_overall_2020-04-12.csv")
+g_id_indonesia_provinces <- indonesiaProvinces()  # read_csv("data/indonesia_provinces.csv")
+g_id_indonesia_master <- indonesiaMaster()        # read_csv("data/indonesia_master.csv")
 
 
 ####---- Reading NASDAQ Index ----####

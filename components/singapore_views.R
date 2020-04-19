@@ -8,6 +8,7 @@
 # upcode_table <- sgCases()
 # sing_data <- read_csv("data/sing_data.csv")
 singapore_master <- sgMaster()
+g_sgCluster <- sgCluster()
 
 ## merge
 # df2 <- upcode_table %>% 
@@ -57,8 +58,7 @@ singapore_master <- sgMaster()
 ####---- Create map for Infected Area ----####
 infect_area <- function(){
   
-  ip <- singapore_master %>%
-    dplyr::select(case_id,infected_place,ip_lat,ip_lon, confirmed_date) %>%
+  ip <- g_sgCluster %>%
     dplyr::group_by(infected_place,ip_lat,ip_lon) %>%
     dplyr::summarise(total_cases= dplyr::n_distinct(as.character(case_id)),
                      last_infected_date= max(confirmed_date) )
