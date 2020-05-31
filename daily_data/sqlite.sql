@@ -83,22 +83,19 @@ delete from Singapore_Master;
 
 CREATE TABLE Singapore_Master
 (
-    infected_place  VARCHAR (100),
-    hospital	VARCHAR (25),
-    case_id	INTEGER,
-    age	INTEGER,
-    nationality	VARCHAR (25),
-    gender	VARCHAR (10),
-    imported	VARCHAR (25),
-    Status	VARCHAR (25),
-    origin_country	VARCHAR (50),
-    symptom_to_confirm	INTEGER,
-    time_to_recover	INTEGER,
-    confirmed_date	Date,
-    Hospital_Latitude	INTEGER,
-    Hospital_Longitude	INTEGER,
-    ip_lat	INTEGER,
-    ip_lon	INTEGER
+    hospital           VARCHAR (25),
+    case_id            INTEGER,
+    age                INTEGER,
+    nationality        VARCHAR (25),
+    gender             VARCHAR (10),
+    imported           VARCHAR (25),
+    Status             VARCHAR (25),
+    origin_country     VARCHAR (50),
+    symptom_to_confirm INTEGER,
+    time_to_recover    INTEGER,
+    confirmed_date     DATE,
+    Hospital_Latitude  INTEGER,
+    Hospital_Longitude INTEGER
 );
 
 select * from singapore_master;
@@ -162,6 +159,8 @@ create table indonesia_master
     new_death	          INTEGER,
     new_cases_in_icu          INTEGER
 );
+
+delete from indonesia_master;
 
 select * from indonesia_master;
 

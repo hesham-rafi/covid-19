@@ -7,6 +7,7 @@ library(rtweet)
 
 #Specifying the url for desired website to be scraped
 url <- 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR30F8lYP3jG7YOq8es0PBpJIE5yvRVZffOyaqC0GgMBN6yt0Q-NI8pxS7hd1F9dYXnowSC6zpZmW9D/pubhtml?gid=0&amp;single=false&amp;widget=true&amp;headers=false'
+url <- "https://news.google.com/covid19/map?hl=en-SG&gl=SG&ceid=SG:en"
 
 ### create function to read table into dataframe 
 
@@ -14,6 +15,7 @@ url <- 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR30F8lYP3jG7YOq8es0PBpJ
 names<-c("Country","Cases","New_cases","Deaths","New_deaths","percent_deaths","Serious","Recovered")
 
 table_path = '//*[@id="0"]/div/table'
+table_path = '//*[@class="sOh CrmLxe"]/table'
 
 
 table <- url %>%
@@ -33,6 +35,6 @@ table <- url %>%
   mutate(Last_update = Sys.time())
 
 
-save_as_csv(table, "daily_data/2020-04-19.csv")
+save_as_csv(table, "daily_data/2020-05-12.csv")
 
 
